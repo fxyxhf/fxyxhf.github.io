@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧍‍♂️ Biography
 Since 2021, I have been pursuing my undergraduate studies in Measurement and Control Technology and Instruments at Jilin University. In 2025, I will be admitted to the School of Instrument Science and Engineering at Harbin Institute of Technology to pursue a Master's degree in Instrument Science and Technology.
 
 My research interests include
