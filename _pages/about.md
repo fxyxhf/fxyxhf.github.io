@@ -24,7 +24,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.
-
+- *2024.09*: &nbsp;🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
