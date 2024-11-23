@@ -30,9 +30,21 @@ My research interests include
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks.
 - *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.
 - *2024.09*: &nbsp;🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.
-  
+- *2024.09*: &nbsp;🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.
+- *2024.07*: &nbsp;🎉🎉 I completed the automatic leveling device in the course design (excellent conclusion).
+- *2024.06*: &nbsp;🎉🎉 I have completed a comprehensive report on aeromagnetic exploration.
+- *2024.06*: &nbsp;🎉🎉 I independently completed the pipeline pressure distribution and regulation characteristic test of the open innovation experimental racing car brake system (excellent conclusion).
+- *2024.05*: &nbsp;🎉🎉 I have completed an A-law to μ-law converter design in the course design (excellent conclusion).
+- *2024.01*: &nbsp;🎉🎉 I have completed the design of a closed-loop speed control system for a DC motor in the course design (excellent completion).
+- *2023.12*: &nbsp;🎉🎉 I completed a simple car dashboard design in the course design.
+- *2023.11*: &nbsp;🎉🎉 I completed NMR signal denoising and accuracy estimation in the course design (excellent conclusion).
+- *2023.09*: &nbsp;🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.
+- *2023.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.
+- *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
+
 # 📝 Publications 
 
 <!--
@@ -56,7 +68,7 @@ My research interests include
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer.  
 - *2024.11* National College Student AI Technology Competition,First Prize.  
 - *2024.11* BOE Cup Intelligent Manufacturing Competition,First Prize.
-- *2024.11* Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.
+- *2024.11* 'Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.
 - *2024.10* Jilin University,College Excellent Student. 
 - *2024.10* Jilin University,Academic Scholarship.  
 - *2024.10* Jilin University,First Prize Scholarship.
