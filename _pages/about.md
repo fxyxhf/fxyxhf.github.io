@@ -63,7 +63,7 @@ My research interests include
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-
+<!--
 # 🎖 Honors and Awards
 - *2024.12* Jilin University,Academic Competition Scholarship.
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer.  
