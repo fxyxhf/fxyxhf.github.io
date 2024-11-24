@@ -50,7 +50,7 @@ My research interests include
 # 🔍 Projects
 [**Automatic Leveling Device**](https://zhuanlan.zhihu.com/p/3562076084)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07-2024.08</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07-2024.08</div><img src='images/20241124143910.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
