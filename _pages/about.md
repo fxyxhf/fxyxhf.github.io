@@ -27,6 +27,9 @@ My research interests include
 - [Intelligent Optimization Algorithm](https://scholar.google.com/scholar?q=intelligent+optimization+algorithm)
 - [Mathematical Model](https://scholar.google.com/scholar?q=mathematical+model)
 
+# 📖 Educations
+- *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology. 
+- *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks.
@@ -43,6 +46,8 @@ My research interests include
 - *2023.09*: &nbsp;🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.
 - *2023.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.
 - *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
+
+# 🔍 Projects
 
 # 📝 Publications 
 
@@ -62,7 +67,7 @@ My research interests include
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.12* Jilin University,Academic Competition Scholarship.
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer.  
 - *2024.11* National College Student AI Technology Competition,First Prize.  
@@ -79,8 +84,6 @@ My research interests include
 - *2022.02* Promoting the Spirit of the Constitution and Youth in Action - National College Youth Propaganda Campaign,First Prize. 
 - *2022.02* Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City,Outstanding Performance Award. 
 
-# 📖 Educations
-- *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology. 
-- *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.
+# 💼 Societies
 
 
