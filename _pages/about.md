@@ -48,6 +48,21 @@ My research interests include
 - *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
 
 # 🔍 Projects
+**Adaptability of marine lanternfish communities**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/20241124140802.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+The sex ratio of sea lampreys varies with environmental changes. To investigate its impact, we first established the relationship between food supply, growth rate, and sex ratio based on the logistic function, and improved the Lotka Volterra predator model to analyze the changes in the number of various groups when the sex ratio changes. At the same time, the coefficient of variation was introduced into the multi-level fuzzy comprehensive evaluation model to objectively calculate weights and perform fuzzy evaluation calculations on the entire hierarchical structure constructed. Finally, a cellular automaton model was established to simulate the changes in sex ratio of the lamprey population and its spatiotemporal evolution process on the ecosystem. The adjustment mechanism of sex ratio was explored through iterative update rules.
+</div>
+</div>
+**Finished Works:**
+- Refer to relevant literature.
+- Establish all mathematical models.
+- Write the initial draft of the paper.
+- Draw flowcharts and diagrams.
+
 **NMR signal denoising and accuracy estimation**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.11</div><img src='images/20241124140802.png' alt="sym" width="100%"></div></div>
