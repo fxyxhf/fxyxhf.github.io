@@ -48,7 +48,21 @@ My research interests include
 - *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
 
 # 🔍 Projects
-**Adaptability of marine lanternfish communities**
+[**Automatic Leveling Device**](https://zhuanlan.zhihu.com/p/3562076084)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07-2024.08</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Design and manufacture an automatic leveling device using attitude sensors, consisting of a disc, attitude sensors, and three adjustable height feet. Solve the data from the attitude sensors and design a control algorithm to adjust the platform using STM32 to control the motor.
+</div>
+</div>
+**Finished Works:**
+- Conducted principle design, structural scheme design, and simulation design.
+- Designed hardware circuits and control programs.
+- Conduct testing and analysis.
+
+**Adaptability of Marine Lanternfish Communities**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +77,7 @@ The sex ratio of sea lampreys varies with environmental changes. To investigate 
 - Write the initial draft of the paper.
 - Draw flowcharts and diagrams.
 
-**NMR signal denoising and accuracy estimation**
+**NMR Signal Denoising and Accuracy Estimation**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.11</div><img src='images/20241124140802.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,7 +87,7 @@ Based on the collected magnetic resonance signals, Hilbert transform is applied 
 </div>
 </div>
 
-**Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation**
+**Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
