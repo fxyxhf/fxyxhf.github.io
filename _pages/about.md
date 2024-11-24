@@ -50,7 +50,7 @@ My research interests include
 # 🔍 Projects
 **Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation**(Core Members)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div><img src='images/20241124135257.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
