@@ -65,13 +65,12 @@ Based on the collected magnetic resonance signals, Hilbert transform is applied 
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 We have developed a thermal radiation experimental instrument that can eliminate the influence of thermal convection by making the thermal convection during the heat transfer process controllable. Using this instrument, we have studied the effects of factors such as object material, color, distance, and roughness on thermal radiation, and quantitatively obtained the absorption capacity of different materials for radiation through the calculation of blackness.
-
+</div>
+</div>
 **Finished Works:**
 - Draft preliminary plan.
 - Design the overall device.
 - Complete the installation, debugging, and maintenance of hardware components.
-</div>
-</div>
 
 # 📝 Publications 
 
