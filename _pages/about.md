@@ -62,7 +62,7 @@ Design and manufacture an automatic leveling device using attitude sensors, cons
 - Conducted principle design, structural scheme design, and simulation design.
 - Designed hardware circuits and control programs.
 - Conduct testing and analysis.
-
+</div>
 
 **Adaptability of Marine Lanternfish Communities**
 
@@ -79,7 +79,7 @@ The sex ratio of sea lampreys varies with environmental changes. To investigate 
 - Establish all mathematical models.
 - Write the initial draft of the paper.
 - Draw flowcharts and diagrams.
-
+</div>
 
 **NMR Signal Denoising and Accuracy Estimation**
 
@@ -105,7 +105,7 @@ We have developed a thermal radiation experimental instrument that can eliminate
 - Draft preliminary plan.
 - Design the overall device.
 - Complete the installation, debugging, and maintenance of hardware components.
-
+</div>
 
 # 📝 Publications 
 
