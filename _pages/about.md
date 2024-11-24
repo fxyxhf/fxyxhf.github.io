@@ -48,17 +48,17 @@ My research interests include
 - *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
 
 # 🔍 Projects
+**Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation**(Core Members)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 We have developed a thermal radiation experimental instrument that can eliminate the influence of thermal convection by making the thermal convection during the heat transfer process controllable. Using this instrument, we have studied the effects of factors such as object material, color, distance, and roughness on thermal radiation, and quantitatively obtained the absorption capacity of different materials for radiation through the calculation of blackness.
 </div>
 </div>
 
-Finished Works:
+**Finished Works:**
 - Draft preliminary plan.
 - Design the overall device.
 - Complete the installation, debugging, and maintenance of hardware components.
