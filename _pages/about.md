@@ -57,7 +57,7 @@ Design and manufacture an automatic leveling device using attitude sensors, cons
 </div>
 </div>
 
-<strong>**Finished Works:**
+<strong>**Finished Works:**</strong>
 - Conducted principle design, structural scheme design, and simulation design.
 - Designed hardware circuits and control programs.
 - Conduct testing and analysis.
@@ -71,7 +71,7 @@ The sex ratio of sea lampreys varies with environmental changes. To investigate 
 </div>
 </div>
 
-<strong>**Finished Works:**
+<strong>**Finished Works:**</strong>
 - Refer to relevant literature.
 - Establish all mathematical models.
 - Write the initial draft of the paper.
@@ -97,7 +97,7 @@ We have developed a thermal radiation experimental instrument that can eliminate
 </div>
 </div>
 
-<strong>**Finished Works:**
+<strong>**Finished Works:**</strong>
 - Draft preliminary plan.
 - Design the overall device.
 - Complete the installation, debugging, and maintenance of hardware components.
