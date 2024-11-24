@@ -23,11 +23,9 @@ Since 2021, I have been pursuing my undergraduate studies in Measurement and Con
 
 My research interests include
 
-- Computer Vision 
-
-- Intelligent Optimization Algorithm
-
-- Mathematical Model 
+- [Computer Vision](https://scholar.google.com/scholar?q=computer+vision)
+- [Intelligent Optimization Algorithm](https://scholar.google.com/scholar?q=intelligent+optimization+algorithm)
+- [Mathematical Model](https://scholar.google.com/scholar?q=mathematical+model)
 
 
 # 🔥 News
