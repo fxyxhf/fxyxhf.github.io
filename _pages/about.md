@@ -50,7 +50,7 @@ My research interests include
 # 🔍 Projects
 **Adaptability of marine lanternfish communities**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/20241124140802.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
