@@ -52,40 +52,37 @@ My research interests include
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07-2024.08</div><img src='images/20241124143910.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Design and manufacture an automatic leveling device using attitude sensors, consisting of a disc, attitude sensors, and three adjustable height feet. Solve the data from the attitude sensors and design a control algorithm to adjust the platform using STM32 to control the motor.
+</div>
+</div>
 
-**Finished Works:**
+<strong>**Finished Works:**
 - Conducted principle design, structural scheme design, and simulation design.
 - Designed hardware circuits and control programs.
 - Conduct testing and analysis.
-
-</div>
-</div>
 
 **Adaptability of Marine Lanternfish Communities**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 The sex ratio of sea lampreys varies with environmental changes. To investigate its impact, we first established the relationship between food supply, growth rate, and sex ratio based on the logistic function, and improved the Lotka Volterra predator model to analyze the changes in the number of various groups when the sex ratio changes. At the same time, the coefficient of variation was introduced into the multi-level fuzzy comprehensive evaluation model to objectively calculate weights and perform fuzzy evaluation calculations on the entire hierarchical structure constructed. Finally, a cellular automaton model was established to simulate the changes in sex ratio of the lamprey population and its spatiotemporal evolution process on the ecosystem. The adjustment mechanism of sex ratio was explored through iterative update rules.
+</div>
+</div>
 
-**Finished Works:**
+<strong>**Finished Works:**
 - Refer to relevant literature.
 - Establish all mathematical models.
 - Write the initial draft of the paper.
 - Draw flowcharts and diagrams.
 
-</div>
-</div>
+
 
 **NMR Signal Denoising and Accuracy Estimation**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.11</div><img src='images/20241124140802.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Based on the collected magnetic resonance signals, Hilbert transform is applied for linearization processing. MATLAB is used to write a program for least squares fitting, and multiple criteria are combined to remove spike noise. Then, harmonic modeling and uniform scanning methods are used to find the fundamental frequency and eliminate power frequency harmonic noise. Finally, the parameters are accurately estimated to improve the accuracy of the signal.
 </div>
@@ -95,17 +92,17 @@ Based on the collected magnetic resonance signals, Hilbert transform is applied 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 We have developed a thermal radiation experimental instrument that can eliminate the influence of thermal convection by making the thermal convection during the heat transfer process controllable. Using this instrument, we have studied the effects of factors such as object material, color, distance, and roughness on thermal radiation, and quantitatively obtained the absorption capacity of different materials for radiation through the calculation of blackness.
+</div>
+</div>
 
-**Finished Works:**
+<strong>**Finished Works:**
 - Draft preliminary plan.
 - Design the overall device.
 - Complete the installation, debugging, and maintenance of hardware components.
 
-</div>
-</div>
+
 
 # 📝 Publications 
 
