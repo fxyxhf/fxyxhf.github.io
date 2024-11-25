@@ -116,8 +116,10 @@ We have developed a thermal radiation experimental instrument that can eliminate
 
 ## 🎏 Competitions
 - *2024.11* National College Student AI Technology Competition,First Prize.  
-- *2024.11* BOE Cup Intelligent Manufacturing Competition,First Prize.
-- *2024.11* Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.
+- *2024.10* Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.
+- *2024.08* BOE Cup Intelligent Manufacturing Competition,First Prize.
+- *2024.06* Virtual Simulation Design Competition of the School of Instrumentation and Electronics,Second Prize.
+- *2024.06* EDA Design Competition of the School of Instrumentation and Electronics,Second Prize.
 - *2024.06* Jilin University Mathematical Modeling Competition,First Prize.
 - *2024.05* Mathematical Contest In Modeling,Finalist.
 - *2023.12* The 15th Jilin Province College Student Mathematics Competition,Third Prize. 
