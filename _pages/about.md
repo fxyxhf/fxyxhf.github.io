@@ -103,11 +103,13 @@ We have developed a thermal radiation experimental instrument that can eliminate
 -->
 
 # 🏆 Honors and Awards
+## 🏅 Honors
 - *2024.12* Jilin University,Academic Competition Scholarship.
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer.  
 - *2024.11* National College Student AI Technology Competition,First Prize.  
 - *2024.11* BOE Cup Intelligent Manufacturing Competition,First Prize.
 - *2024.11* Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.
+## 🎏 Competitions
 - *2024.10* Jilin University,College Excellent Student. 
 - *2024.10* Jilin University,Academic Scholarship.  
 - *2024.10* Jilin University,First Prize Scholarship.
