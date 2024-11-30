@@ -28,12 +28,13 @@ My research interests include
 - [Mathematical Model](https://scholar.google.com/scholar?q=mathematical+model)
 
 # 📖 Educations
-- *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology. 
+- *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.
+- *2024.12 - 2025.01*, Hanyang University, Technical College.
 - *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks.
-- *2024.11*: &nbsp;🎉🎉 My application to attend the International Winter School of Hanyang University has been accepted.
+- *2024.11*: &nbsp;🎉🎉 I have received an offer to attend the winter school at Hanyang University.
 - *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.
 - *2024.09*: &nbsp;🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.
 - *2024.09*: &nbsp;🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.
