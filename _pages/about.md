@@ -33,7 +33,7 @@ My research interests include
 - *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks.
+- *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks(excellent conclusion).
 - *2024.11*: &nbsp;🎉🎉 I have received an offer to attend the winter school at Hanyang University.
 - *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.
 - *2024.09*: &nbsp;🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.
@@ -50,6 +50,15 @@ My research interests include
 - *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
 
 # 🔍 Projects
+**Remote Sensing Image Road Detection Based on Convolutional Neural Network**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2024.12</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Applying convolutional neural networks to road detection in remote sensing images can fully utilize the advantages of convolutional neural networks and remote sensing images, and combine the two for large-scale remote sensing image processing. By learning rich road feature information from remote sensing images and using the trained model for detection, more accurate road localization can be obtained.
+</div>
+</div>
+
 [**Automatic Leveling Device**](https://zhuanlan.zhihu.com/p/3562076084)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07-2024.08</div><img src='images/20241124143910.png' alt="sym" width="100%"></div></div>
