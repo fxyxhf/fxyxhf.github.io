@@ -52,7 +52,7 @@ My research interests include
 # 🔍 Projects
 **Remote Sensing Image Road Detection Based on Convolutional Neural Network**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2024.12</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2024.12</div><img src='images/QQ浏览器截图20241227195329.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Applying convolutional neural networks to road detection in remote sensing images can fully utilize the advantages of convolutional neural networks and remote sensing images, and combine the two for large-scale remote sensing image processing. By learning rich road feature information from remote sensing images and using the trained model for detection, more accurate road localization can be obtained.
