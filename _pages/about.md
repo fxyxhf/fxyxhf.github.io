@@ -116,10 +116,10 @@ We have developed a thermal radiation experimental instrument that can eliminate
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2024.12* Vehicle Counting, Classification & Detection using Computer Vision Certification.
-- *2024.12* Senior Artificial Intelligence Trainer at Damo Academy.
+- *2024.12* Vehicle Counting, Classification & Detection using Computer Vision,Certification.
+- *2024.12* Senior Artificial Intelligence Trainer at Damo Academy,Certification.
 - *2024.12* Jilin University,Academic Competition Scholarship.
-- *2024.12* AutoCAD Certification.
+- *2024.12* AutoCAD,Certification.
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer.  
 - *2024.10* Jilin University,College Excellent Student. 
 - *2024.10* Jilin University,Academic Scholarship.  
