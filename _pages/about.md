@@ -141,8 +141,8 @@ We have developed a thermal radiation experimental instrument that can eliminate
 
 # 💼 Societies
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer. 
-- *2024.02* Baicheng City,Mingsheng Community Volunteer.
-- *2023.01* Baicheng City,Volunteer Service for Garbage Classification.
+- *2024.01-2024.02* Baicheng City,Mingsheng Community Volunteer.
+- *2023.01-2023.02* Baicheng City,Volunteer Service for Garbage Classification.
 - *2022.10* Jilin University,Men's 800 Meter Athletes at the School Sports Meet.
 - *2022.10* Jilin University,Members of the School Sports Team.
 - *2022.05* Jilin University,Volunteers for Epidemic Prevention and Control Supervision and Inspection.
