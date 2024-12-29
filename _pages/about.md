@@ -140,5 +140,12 @@ We have developed a thermal radiation experimental instrument that can eliminate
 - *2022.12* The 14th Jilin Province College Student Mathematics Competition,Third Prize. 
 
 # 💼 Societies
-
+- *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer. 
+- *2024.02* Baicheng City,Mingsheng Community Volunteer.
+- *2023.01* Baicheng City,Volunteer Service for Garbage Classification.
+- *2022.10* Jilin University,Men's 800 Meter Athletes at the School Sports Meet.
+- *2022.10* Jilin University,Members of the School Sports Team.
+- *2022.05* Jilin University,Volunteers for Epidemic Prevention and Control Supervision and Inspection.
+- *2022.01-2022.02* Baicheng City,Volunteer Service Activities for Epidemic Prevention and Control. 
+- *2021.12* Jilin University,Volunteers for the New Student Welcome Party. 
 
