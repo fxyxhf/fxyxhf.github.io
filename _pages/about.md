@@ -116,6 +116,9 @@ We have developed a thermal radiation experimental instrument that can eliminate
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
+- *2024.12* Advanced Computer Vision with OpenCV and Python,Certification.
+- *2024.12* Advanced Intelligent Connected Vehicle Safety Officer,Certification.
+- *2024.12* CATIA - Computer Aided Design and Drafting,Certification.
 - *2024.12* Vehicle Counting, Classification & Detection using Computer Vision,Certification.
 - *2024.12* Senior Artificial Intelligence Trainer at Damo Academy,Certification.
 - *2024.12* Jilin University,Academic Competition Scholarship.
