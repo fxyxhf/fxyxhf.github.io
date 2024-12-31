@@ -116,6 +116,9 @@ We have developed a thermal radiation experimental instrument that can eliminate
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
+- *2024.12* IOT - Internet of Things,Certification.
+- *2024.12* Augmented and Virtual Reality,Certification.
+- *2024.12* ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE,Certification.
 - *2024.12* Advanced Computer Vision with OpenCV and Python,Certification.
 - *2024.12* Advanced Intelligent Connected Vehicle Safety Officer,Certification.
 - *2024.12* CATIA - Computer Aided Design and Drafting,Certification.
