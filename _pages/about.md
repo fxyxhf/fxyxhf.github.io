@@ -113,16 +113,8 @@ We have developed a thermal radiation experimental instrument that can eliminate
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 ## 📚 Patents
-- <style>
-    .flex-container {
-        display: flex;
-        align-items: center; /* 垂直居中对齐 */
-    }
-    .badge {
-        margin-right: 10px; /* 调整标签与文字之间的间距 */
-    }
-</style>
-<div class='flex-container'><div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div></div></div></div>[**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)</div>
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software Copyright</div></div></div></div> [**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software Copyright</div></div></div></div> [**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
