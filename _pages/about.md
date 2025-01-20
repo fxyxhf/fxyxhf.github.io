@@ -97,7 +97,6 @@ We have developed a thermal radiation experimental instrument that can eliminate
 
 # 📝 Publications 
 ## 📃 Papers
-## 📚 Patents
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -113,9 +112,19 @@ We have developed a thermal radiation experimental instrument that can eliminate
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+## 📚 Patents
+- [Precision Attitude Adjustment Control Software Based on Kalman Filter](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
+- *2025.01* Data Analysis using Microsoft Excel,Certification.
+- *2025.01* Matlab,Certification.
+- *2025.01* Robotics,Certification.
+- *2025.01* Web Designing,Certification.
+- *2025.01* Deep Learning,Certification.
+- *2025.01* SPSS Statistics,Certification.
+- *2025.01* Data Science,Certification.
+- *2025.01* C & C++ Programming Language,Certification.
 - *2024.12* IOT - Internet of Things,Certification.
 - *2024.12* Augmented and Virtual Reality,Certification.
 - *2024.12* ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE,Certification.
