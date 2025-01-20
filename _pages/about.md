@@ -113,7 +113,7 @@ We have developed a thermal radiation experimental instrument that can eliminate
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 ## 📚 Patents
-- [Precision Attitude Adjustment Control Software Based on Kalman Filter](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div></div></div></div>[**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
