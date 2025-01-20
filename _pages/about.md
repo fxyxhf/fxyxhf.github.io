@@ -114,7 +114,8 @@ We have developed a thermal radiation experimental instrument that can eliminate
 -->
 ## 📚 Patents
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software Copyright</div></div></div></div> [**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
-- <span class='paper-box'><span class='paper-box-image'><span><span class="badge">Software Copyright</span></span></span></span> [**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
+- **Software Copyright** | [**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
+
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
