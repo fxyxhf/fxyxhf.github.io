@@ -25,7 +25,8 @@ My research interests include
 
 - [Computer Vision](https://scholar.google.com/scholar?q=computer+vision)
 - [Intelligent Optimization Algorithm](https://scholar.google.com/scholar?q=intelligent+optimization+algorithm)
-- [Mathematical Model](https://scholar.google.com/scholar?q=mathematical+model)
+- [aerospace optical detection and imaging](https://scholar.google.com/scholar?q=aerospace+optical+detection+and+imaging)
+- [signal processing](https://scholar.google.com/scholar?q=signal+processing)
 
 # 📖 Educations
 - *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.
