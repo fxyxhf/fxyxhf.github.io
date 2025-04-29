@@ -56,6 +56,24 @@ My research interests include
 - *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
 
 # 🔍 Projects
+**Research and Development of Visible Camera Dynamic Communication Technology for Autonomous Vehicles (key research and development project of Jilin Provincial Science and Technology Development Program)**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.03-2025.05</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="text-align: justify;" markdown="1">
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Relying on this project to complete the open innovation experiment project “carrying visible light camera dynamic communication target light group of railcar development”, I independently design the schematic diagram, drawing PCB circuit board, preparation of the control program, the use of stepper motors to drive the railcar, the production of the control circuit board, the control of the operation of the railcar, and at the same time to display the operating status, operating time. I designed the schematic diagram, drew the PCB circuit board, prepared the control program independently.
+</div>
+</div>
+
+**Development and Online Application of Large-scale Multi-dimensional Intelligent Flexible Inspection System (Major Science and Technology Special Project of Jilin Province)**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2025.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="text-align: justify;" markdown="1">
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Relying on this project to complete the undergraduate graduation design “structured light-based integrated casting surface defect detection system design”, I joined the Key Laboratory of the Ministry of Education of the Earth Information Exploration Instrumentation, selected the appropriate structured light equipment, calculated the casting surface of the three-dimensional point cloud, and selected the appropriate stitching method to multiple local scanning of the point cloud data into a complete three-dimensional model, and then based on the surface shape anomaly design feature extraction method to distinguish between normal and defective areas. Then we design a feature extraction method based on surface shape anomalies to distinguish between normal and defective areas. Finally, for multiple batches of real integrated casting samples, the defect detection algorithm is utilized to detect the 3D point cloud on the casting surface for algorithm validation and performance evaluation.
+</div>
+</div>
+
 **Research on key technologies for joint multi-satellite large-area coverage imaging (key research and development project of Jilin Provincial Science and Technology Development Program)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2024.12</div><img src='images/QQ浏览器截图20241227195329.png' alt="sym" width="100%"></div></div>
@@ -71,6 +89,15 @@ Applying convolutional neural networks to road detection in remote sensing image
 <div class='paper-box-text' style="text-align: justify;" markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Design and manufacture an automatic leveling device using attitude sensors, consisting of a disc, attitude sensors, and three adjustable height feet. Solve the data from the attitude sensors and design a control algorithm to adjust the platform using STM32 to control the motor.
+</div>
+</div>
+
+**Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism (Key Project of Scientific Research Project of Jilin Provincial Education Department)**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.04-2024.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="text-align: justify;" markdown="1">
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+I joined the Jilin University Jisso Formula Racing Team, taking the college students' Formula Racing as the research object, installing pressure sensors at the outlet of the front brake master cylinder, the outlet of the rear brake master cylinder, and the inlet of the rear brake wheel cylinder respectively, and using the data recording device to record the pressure of the braking pipeline, and adjusting the balancing lever or the proportional valve, we can learn the law of braking force distribution by measuring the braking pressure.
 </div>
 </div>
 
@@ -94,16 +121,25 @@ Based on the collected magnetic resonance signals, Hilbert transform is applied 
 
 **Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation(Innovation and Entrepreneurship Training Program for College Students in Jilin Province)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.04</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="text-align: justify;" markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Relying on this project and the Jilin Higher Education Society's Higher Education Research Project “Research on the Construction of Innovative Research University Physics Experiment First-class Curriculum System in the Context of the New Era”, we made a thermal radiation experimental apparatus that can eliminate the influence of thermal convection by controlling the thermal convection in the process of heat transfer. We used the apparatus to study the influence of thermal radiation by the object's material, color, distance, roughness and other factors, and quantified the radiation absorption capacity of different materials through the calculation of blackness. I am **mainly responsible for** the preliminary plan, the design of the overall device, as well as the installation, debugging and maintenance of the hardware part of the work, etc. The paper has been included in the “**Jilin University 2025 College Students Innovation and Entrepreneurship Training Program Outstanding Thesis Collection**”.
+Relying on this project and the Jilin Higher Education Society's Higher Education Research Project “Research on the Construction of Innovative Research University Physics Experiment First-class Curriculum System in the Context of the New Era”, we made a thermal radiation experimental apparatus that can eliminate the influence of thermal convection by controlling the thermal convection in the process of heat transfer. We used the apparatus to study the influence of thermal radiation by the object's material, color, distance, roughness and other factors, and quantified the radiation absorption capacity of different materials through the calculation of blackness. I am mainly responsible for the preliminary plan, the design of the overall device, as well as the installation, debugging and maintenance of the hardware part of the work, etc. The paper has been included in the “Jilin University 2025 College Students Innovation and Entrepreneurship Training Program Outstanding Thesis Collection”.
+</div>
+</div>
+
+**Statistical Inference for Non-Smooth and High-Frequency Time Series Models (Key Project of National Natural Science Foundation of China)**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04-2023.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="text-align: justify;" markdown="1">
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+I study machine learning methods such as generalized linear models, K-nearest neighbors, neural networks, decision trees, random forests, and their applications in auto insurance risk analysis and product pricing, and use Matlab to analyze actual auto insurance data, think about and improve the models and methods, make reasonable explanations of the results, and make scientific suggestions for applications.
 </div>
 </div>
 
 # 📝 Publications 
 ## 📃 Papers
-<!--
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -117,12 +153,16 @@ Relying on this project and the Jilin Higher Education Society's Higher Educatio
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+
 ## 📚 Patents
+- **BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles**, Baixin Lu (2025R11S0774634)
+- **Intelligent vehicle multi-sensor fusion monitoring software based on 51 microcontroller**, Baixin Lu (2025R11S0525375)
+- **Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors**, Baixin Lu (2025SR0406004)
 - [**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
+- *2025.04* Jilin University,Five-star Youth League Member 
 - *2025.01* Data Analysis using Microsoft Excel,Certification.
 - *2025.01* Matlab,Certification.
 - *2025.01* Robotics,Certification.
@@ -150,6 +190,7 @@ Relying on this project and the Jilin Higher Education Society's Higher Educatio
 - *2022.02* Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City,Outstanding Performance Award.
 
 ## 🎏 Competitions
+- *2025.02* National Student Technology Innovation and Entrepreneurship Competition,First Prize. 
 - *2024.11* National College Student AI Technology Competition,First Prize.  
 - *2024.10* Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.
 - *2024.08* BOE Cup Intelligent Manufacturing Competition,First Prize.
@@ -161,6 +202,8 @@ Relying on this project and the Jilin Higher Education Society's Higher Educatio
 - *2022.12* The 14th Jilin Province College Student Mathematics Competition,Third Prize. 
 
 # 💼 Societies
+- *2025.04 to present* Life Member of China Satellite Navigation and Positioning Association
+- *2025.04 to present* Student Member of the Chinese Society of Mechanics
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer. 
 - *2024.01-2024.02* Baicheng City,Mingsheng Community Volunteer.
 - *2023.01-2023.02* Baicheng City,Volunteer Service for Garbage Classification.
