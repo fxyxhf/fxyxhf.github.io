@@ -25,8 +25,8 @@ My research interests include
 
 - [Computer Vision](https://scholar.google.com/scholar?q=computer+vision)
 - [Intelligent Optimization Algorithm](https://scholar.google.com/scholar?q=intelligent+optimization+algorithm)
-- [aerospace optical detection and imaging](https://scholar.google.com/scholar?q=aerospace+optical+detection+and+imaging)
-- [signal processing](https://scholar.google.com/scholar?q=signal+processing)
+- [Aerospace Optical Detection and Imaging](https://scholar.google.com/scholar?q=aerospace+optical+detection+and+imaging)
+- [Signal Processing](https://scholar.google.com/scholar?q=signal+processing)
 
 # 📖 Educations
 - *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.
@@ -34,6 +34,11 @@ My research interests include
 - *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).
+- *2025.04*: &nbsp;🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).
+- *2025.04*: &nbsp;🎉🎉 I completed a college student innovation and entrepreneurship training program project.
+- *2025.02*: &nbsp;🎉🎉 I joined the Key Laboratory of Earth Information Exploration Instruments of the Ministry of Education.
+- *2025.01*: &nbsp;🎉🎉 I completed the entire winter school program at Hanyang University.
 - *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks(excellent conclusion).
 - *2024.11*: &nbsp;🎉🎉 I have received an offer to attend the winter school at Hanyang University.
 - *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.
@@ -51,7 +56,7 @@ My research interests include
 - *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
 
 # 🔍 Projects
-**Remote Sensing Image Road Detection Based on Convolutional Neural Network**
+**Research on key technologies for joint multi-satellite large-area coverage imaging (key research and development project of Jilin Provincial Science and Technology Development Program)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2024.12</div><img src='images/QQ浏览器截图20241227195329.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="text-align: justify;" markdown="1">
@@ -60,7 +65,7 @@ Applying convolutional neural networks to road detection in remote sensing image
 </div>
 </div>
 
-[**Automatic Leveling Device**](https://zhuanlan.zhihu.com/p/3562076084)
+[**Automatic Leveling Device(Course Design)**](https://zhuanlan.zhihu.com/p/3562076084)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07-2024.08</div><img src='images/20241124143910.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="text-align: justify;" markdown="1">
@@ -69,7 +74,7 @@ Design and manufacture an automatic leveling device using attitude sensors, cons
 </div>
 </div>
 
-**Adaptability of Marine Lanternfish Communities**
+**Adaptability of Marine Lanternfish Communities under Changing Sex Ratios(MCM)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="text-align: justify;" markdown="1">
@@ -78,7 +83,7 @@ The sex ratio of sea lampreys varies with environmental changes. To investigate 
 </div>
 </div>
 
-**NMR Signal Denoising and Accuracy Estimation**
+**NMR Signal Denoising and Accuracy Estimation(Course Design)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.11</div><img src='images/20241124140802.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="text-align: justify;" markdown="1">
@@ -87,12 +92,12 @@ Based on the collected magnetic resonance signals, Hilbert transform is applied 
 </div>
 </div>
 
-**Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation**
+**Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation(Innovation and Entrepreneurship Training Program for College Students in Jilin Province)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="text-align: justify;" markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-We have developed a thermal radiation experimental instrument that can eliminate the influence of thermal convection by making the thermal convection during the heat transfer process controllable. Using this instrument, we have studied the effects of factors such as object material, color, distance, and roughness on thermal radiation, and quantitatively obtained the absorption capacity of different materials for radiation through the calculation of blackness.
+Relying on this project and the Jilin Higher Education Society's Higher Education Research Project “Research on the Construction of Innovative Research University Physics Experiment First-class Curriculum System in the Context of the New Era”, we made a thermal radiation experimental apparatus that can eliminate the influence of thermal convection by controlling the thermal convection in the process of heat transfer. We used the apparatus to study the influence of thermal radiation by the object's material, color, distance, roughness and other factors, and quantified the radiation absorption capacity of different materials through the calculation of blackness. I am **mainly responsible for** the preliminary plan, the design of the overall device, as well as the installation, debugging and maintenance of the hardware part of the work, etc. The paper has been included in the “**Jilin University 2025 College Students Innovation and Entrepreneurship Training Program Outstanding Thesis Collection**”.
 </div>
 </div>
 
