@@ -162,7 +162,7 @@ I study machine learning methods such as generalized linear models, K-nearest ne
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2025.04* Jilin University,Five-star Youth League Member 
+- *2025.04* Jilin University,Five-star Youth League Member.
 - *2025.01* Data Analysis using Microsoft Excel,Certification.
 - *2025.01* Matlab,Certification.
 - *2025.01* Robotics,Certification.
