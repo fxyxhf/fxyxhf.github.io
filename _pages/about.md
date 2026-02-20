@@ -24,9 +24,8 @@ Since 2021, I have been pursuing my undergraduate degree in Measurement and Cont
 My research interests include
 
 - [Computer Vision](https://scholar.google.com/scholar?q=computer+vision)
-- [Intelligent Optimization Algorithm](https://scholar.google.com/scholar?q=intelligent+optimization+algorithm)
-- [Aerospace Optical Detection and Imaging](https://scholar.google.com/scholar?q=aerospace+optical+detection+and+imaging)
-- [Signal Processing](https://scholar.google.com/scholar?q=signal+processing)
+- [Autonomous Driving](https://scholar.google.com/scholar?q=autonomous+driving)
+- [Natural Language Processing](https://scholar.google.com/scholar?q=natural+language+processing)
 
 # 📖 Educations
 - *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.
