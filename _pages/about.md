@@ -60,13 +60,15 @@ My research interests include
   Relying on this project to complete the open innovation experiment project “carrying visible light camera dynamic communication target light group of railcar development”, I independently designed the schematic diagram, drew the PCB circuit board, prepared the control program, used stepper motors to drive the railcar, produced the control circuit board, controlled the operation of the railcar, and simultaneously displayed the operating status and operating time. I designed the schematic diagram, drew the PCB circuit board, and prepared the control program independently.
 </div>
 
-**Development and Online Application of Large-scale Multi-dimensional Intelligent Flexible Inspection System (Major Science and Technology Special Project of Jilin Province)**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2025.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Relying on this project to complete the undergraduate graduation design “structured light-based integrated casting surface defect detection system design”, I joined the Key Laboratory of the Ministry of Education of the Earth Information Exploration Instrumentation, selected the appropriate structured light equipment, calculated the casting surface of the three-dimensional point cloud, and selected the appropriate stitching method to multiple local scanning of the point cloud data into a complete three-dimensional model, and then based on the surface shape anomaly design feature extraction method to distinguish between normal and defective areas. Then we design a feature extraction method based on surface shape anomalies to distinguish between normal and defective areas. Finally, for multiple batches of real integrated casting samples, the defect detection algorithm is utilized to detect the 3D point cloud on the casting surface for algorithm validation and performance evaluation.
+<div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+  <div>Development and Online Application of Large-scale Multi-dimensional Intelligent Flexible Inspection System</div>
+  <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Major Science and Technology Special Project of Jilin Province</div>
+  <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2024.10-2025.06</div>
 </div>
+
+<div style="text-align: justify; line-height: 1.6;">
+  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  Relying on this project to complete the undergraduate graduation design “structured light-based integrated casting surface defect detection system design”, I joined the Key Laboratory of the Ministry of Education of the Earth Information Exploration Instrumentation, selected the appropriate structured light equipment, calculated the casting surface of the three-dimensional point cloud, and selected the appropriate stitching method to multiple local scanning of the point cloud data into a complete three-dimensional model, and then based on the surface shape anomaly design feature extraction method to distinguish between normal and defective areas. Then we design a feature extraction method based on surface shape anomalies to distinguish between normal and defective areas. Finally, for multiple batches of real integrated casting samples, the defect detection algorithm is utilized to detect the 3D point cloud on the casting surface for algorithm validation and performance evaluation.
 </div>
 
 **Research on key technologies for joint multi-satellite large-area coverage imaging (key research and development project of Jilin Provincial Science and Technology Development Program)**
