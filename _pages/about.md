@@ -217,18 +217,18 @@ redirect_from:
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
-- *2025.04* Jilin University,Five-star Youth League Member.
-- *2024.12* ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE,Certification.
-- *2024.12* Advanced Intelligent Connected Vehicle Safety Officer,Certification.
-- *2024.12* Senior Artificial Intelligence Trainer at Damo Academy,Certification.
-- *2024.12* Jilin University,Academic Competition Scholarship.
-- *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer.  
-- *2024.10* Jilin University,College Excellent Student. 
-- *2024.10* Jilin University,Academic Scholarship.  
-- *2024.10* Jilin University,First Prize Scholarship.
-- *2023.10* Jilin University,Second Prize Scholarship.
-- *2022.02* Promoting the Spirit of the Constitution and Youth in Action - National College Youth Propaganda Campaign,First Prize. 
-- *2022.02* Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City,Outstanding Performance Award.
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i> Jilin University, Five-star Youth League Member.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE, Certification.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Advanced Intelligent Connected Vehicle Safety Officer, Certification.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Senior Artificial Intelligence Trainer at Damo Academy, Certification.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Jilin University, Academic Competition Scholarship.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Students' Activities to Promote the Spirit of Aerospace, Excellent Aerospace Pioneer Volunteer.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, College Excellent Student.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, Academic Scholarship.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, First Prize Scholarship.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.10</i> Jilin University, Second Prize Scholarship.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Promoting the Spirit of the Constitution and Youth in Action - National College Youth Propaganda Campaign, First Prize.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City, Outstanding Performance Award.</li>
 
 ## 🎏 Competitions
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
