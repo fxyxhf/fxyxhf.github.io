@@ -40,25 +40,37 @@ redirect_from:
 </div>
 
 # 📖 Educations
-- *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.
-- *2024.12 - 2025.01*, Hanyang University, Technical College.
-- *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="line-height: 1.8; font-size: 1em;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>- *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.</li>
+      <li>- *2024.12 - 2025.01*, Hanyang University, Technical College.</li>
+      <li>- *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.</li>
+    </ul>
+  </div>
+</div>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).
-- *2025.04*: &nbsp;🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).
-- *2025.04*: &nbsp;🎉🎉 I completed a college student innovation and entrepreneurship training program project.
-- *2025.02*: &nbsp;🎉🎉 I joined the Key Laboratory of Earth Information Exploration Instruments of the Ministry of Education.
-- *2025.01*: &nbsp;🎉🎉 I completed the entire winter school program at Hanyang University.
-- *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks(excellent conclusion).
-- *2024.11*: &nbsp;🎉🎉 I have received an offer to attend the winter school at Hanyang University.
-- *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.
-- *2024.09*: &nbsp;🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.
-- *2024.09*: &nbsp;🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.
-- *2024.06*: &nbsp;🎉🎉 I independently completed the pipeline pressure distribution and regulation characteristic test of the open innovation experimental racing car brake system (excellent conclusion).
-- *2023.09*: &nbsp;🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.
-- *2023.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.
-- *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="line-height: 1.8; font-size: 1em;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>- *2025.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).</li>
+      <li>- *2025.04*: &nbsp;🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
+      <li>- *2025.04*: &nbsp;🎉🎉 I completed a college student innovation and entrepreneurship training program project.</li>
+      <li>- *2025.02*: &nbsp;🎉🎉 I joined the Key Laboratory of Earth Information Exploration Instruments of the Ministry of Education.</li>
+      <li>- *2025.01*: &nbsp;🎉🎉 I completed the entire winter school program at Hanyang University.</li>
+      <li>- *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks(excellent conclusion).</li>
+      <li>- *2024.11*: &nbsp;🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
+      <li>- *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.</li>
+      <li>- *2024.09*: &nbsp;🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.</li>
+      <li>- *2024.09*: &nbsp;🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.</li>
+      <li>- *2024.06*: &nbsp;🎉🎉 I independently completed the pipeline pressure distribution and regulation characteristic test of the open innovation experimental racing car brake system (excellent conclusion).</li>
+      <li>- *2023.09*: &nbsp;🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.</li>
+      <li>- *2023.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.</li>
+      <li>- *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.</li>
+    </ul>
+  </div>
+</div>
 
 # 🔍 Projects
 
@@ -192,10 +204,16 @@ redirect_from:
 </div>
 
 ## 📚 Patents
-- **BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles**, Baixin Lu (2025R11S0774634)
-- **Intelligent vehicle multi-sensor fusion monitoring software based on 51 microcontroller**, Baixin Lu (2025R11S0525375)
-- **Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors**, Baixin Lu (2025SR0406004)
-- [**Precision Attitude Adjustment Control Software Based on Kalman Filter**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL), Baixin Lu (2025SR0127365)
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="line-height: 1.8; font-size: 1em;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>- **BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles**, Baixin Lu (2025R11S0774634)</li>
+      <li>- **Intelligent vehicle multi-sensor fusion monitoring software based on 51 microcontroller**, Baixin Lu (2025R11S0525375)</li>
+      <li>- **Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors**, Baixin Lu (2025SR0406004)</li>
+      <li>- <a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong></a>, Baixin Lu (2025SR0127365)</li>
+    </ul>
+  </div>
+</div>
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
@@ -213,18 +231,30 @@ redirect_from:
 - *2022.02* Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City,Outstanding Performance Award.
 
 ## 🎏 Competitions
-- *2025.02* National Student Technology Innovation and Entrepreneurship Competition,First Prize. 
-- *2024.11* National College Student AI Technology Competition,First Prize.  
-- *2024.10* Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.
-- *2024.08* BOE Cup Intelligent Manufacturing Competition,First Prize.
-- *2024.06* Virtual Simulation Design Competition of the School of Instrumentation and Electronics,Second Prize.
-- *2024.06* EDA Design Competition of the School of Instrumentation and Electronics,Second Prize.
-- *2024.06* Jilin University Mathematical Modeling Competition,First Prize.
-- *2024.05* Mathematical Contest In Modeling,Finalist.
-- *2023.12* The 15th Jilin Province College Student Mathematics Competition,Third Prize. 
-- *2022.12* The 14th Jilin Province College Student Mathematics Competition,Third Prize. 
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="line-height: 1.8; font-size: 1em;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>- *2025.02* National Student Technology Innovation and Entrepreneurship Competition,First Prize.</li>
+      <li>- *2024.11* National College Student AI Technology Competition,First Prize.</li>
+      <li>- *2024.10* Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition,Silver Award.</li>
+      <li>- *2024.08* BOE Cup Intelligent Manufacturing Competition,First Prize.</li>
+      <li>- *2024.06* Virtual Simulation Design Competition of the School of Instrumentation and Electronics,Second Prize.</li>
+      <li>- *2024.06* EDA Design Competition of the School of Instrumentation and Electronics,Second Prize.</li>
+      <li>- *2024.06* Jilin University Mathematical Modeling Competition,First Prize.</li>
+      <li>- *2024.05* Mathematical Contest In Modeling,Finalist.</li>
+      <li>- *2023.12* The 15th Jilin Province College Student Mathematics Competition,Third Prize.</li>
+      <li>- *2022.12* The 14th Jilin Province College Student Mathematics Competition,Third Prize.</li>
+    </ul>
+  </div>
+</div>
 
 # 💼 Societies
-- *2025.04 to present* Life Member of China Satellite Navigation and Positioning Association
-- *2025.04 to present* Student Member of the Chinese Society of Mechanics
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="line-height: 1.8; font-size: 1em;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>- *2025.04 to present* Life Member of China Satellite Navigation and Positioning Association</li>
+      <li>- *2025.04 to present* Student Member of the Chinese Society of Mechanics</li>
+    </ul>
+  </div>
+</div>
 
