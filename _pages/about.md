@@ -19,10 +19,7 @@ redirect_from:
 
 
 # 🧍‍♂️ Biography
-<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="color: #F39C12; font-weight: bold; margin-bottom: 15px;">
-    <div>Education Background</div>
-  </div>
+<div style="padding-bottom: 15px; margin-bottom: 15px;">
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
     Since 2021, I have been pursuing my undergraduate degree in Measurement and Control Technology and Instrumentation at 
     <a href="https://www.jlu.edu.cn/" style="color: #F39C12; text-decoration: none;">Jilin University</a>, 
@@ -31,14 +28,10 @@ redirect_from:
   </div>
 </div>
 
-My research interests include
-
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="color: #F39C12; font-weight: bold; margin-bottom: 15px;">
-    <div>Research Interests</div>
-  </div>
   <div style="line-height: 1.8; font-size: 1em;">
-    <ul style="list-style: none; padding-left: 0;">
+    My research interests include
+    <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
       <li>- <a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
       <li>- <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
       <li>- <a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
