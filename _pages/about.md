@@ -232,20 +232,16 @@ redirect_from:
 
 ## 🎏 Competitions
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="line-height: 1.8; font-size: 1em;">
-    <ul style="padding-left: 20px; margin: 0;">
-      <li><i>2025.02</i> National Student Technology Innovation and Entrepreneurship Competition, First Prize.</li>
-      <li><i>2024.11</i> National College Student AI Technology Competition, First Prize.</li>
-      <li><i>2024.10</i> Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition, Silver Award.</li>
-      <li><i>2024.08</i> BOE Cup Intelligent Manufacturing Competition, First Prize.</li>
-      <li><i>2024.06</i> Virtual Simulation Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
-      <li><i>2024.06</i> EDA Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
-      <li><i>2024.06</i> Jilin University Mathematical Modeling Competition, First Prize.</li>
-      <li><i>2024.05</i> Mathematical Contest In Modeling, Finalist.</li>
-      <li><i>2023.12</i> The 15th Jilin Province College Student Mathematics Competition, Third Prize.</li>
-      <li><i>2022.12</i> The 14th Jilin Province College Student Mathematics Competition, Third Prize.</li>
-    </ul>
-  </div>
+- <i>2025.02</i> National Student Technology Innovation and Entrepreneurship Competition, First Prize.
+- <i>2024.11</i> National College Student AI Technology Competition, First Prize.
+- <i>2024.10</i> Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition, Silver Award.
+- <i>2024.08</i> BOE Cup Intelligent Manufacturing Competition, First Prize.
+- <i>2024.06</i> Virtual Simulation Design Competition of the School of Instrumentation and Electronics, Second Prize.
+- <i>2024.06</i> EDA Design Competition of the School of Instrumentation and Electronics, Second Prize.
+- <i>2024.06</i> Jilin University Mathematical Modeling Competition, First Prize.
+- <i>2024.05</i> Mathematical Contest In Modeling, Finalist.
+- <i>2023.12</i> The 15th Jilin Province College Student Mathematics Competition, Third Prize.
+- <i>2022.12</i> The 14th Jilin Province College Student Mathematics Competition, Third Prize.
 </div>
 
 # 💼 Societies
