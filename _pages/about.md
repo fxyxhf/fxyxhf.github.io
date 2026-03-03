@@ -75,67 +75,95 @@ My research interests include
   </div>
 </div>
 
-**Research on key technologies for joint multi-satellite large-area coverage imaging (key research and development project of Jilin Provincial Science and Technology Development Program)**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10-2024.12</div><img src='images/QQ浏览器截图20241227195329.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Applying convolutional neural networks to road detection in remote sensing images can fully utilize the advantages of convolutional neural networks and remote sensing images, and combine the two for large-scale remote sensing image processing. By learning rich road feature information from remote sensing images and using the trained model for detection, more accurate road localization can be obtained.
-</div>
-</div>
-
-[**Automatic Leveling Device(Course Design)**](https://zhuanlan.zhihu.com/p/3562076084)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.07-2024.08</div><img src='images/20241124143910.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Design and manufacture an automatic leveling device using attitude sensors, consisting of a disc, attitude sensors, and three adjustable height feet. Solve the data from the attitude sensors and design a control algorithm to adjust the platform using STM32 to control the motor.
-</div>
+<!-- 项目1：多卫星联合大范围覆盖成像关键技术研究 -->
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>Research on key technologies for joint multi-satellite large-area coverage imaging</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">key research and development project of Jilin Provincial Science and Technology Development Program</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2024.10-2024.12</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6;">
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    Applying convolutional neural networks to road detection in remote sensing images can fully utilize the advantages of convolutional neural networks and remote sensing images, and combine the two for large-scale remote sensing image processing. By learning rich road feature information from remote sensing images and using the trained model for detection, more accurate road localization can be obtained.
+  </div>
 </div>
 
-**Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism (Key Project of Scientific Research Project of Jilin Provincial Education Department)**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.04-2024.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-I joined the Jilin University Jisso Formula Racing Team, taking the college students' Formula Racing as the research object, installing pressure sensors at the outlet of the front brake master cylinder, the outlet of the rear brake master cylinder, and the inlet of the rear brake wheel cylinder respectively, and using the data recording device to record the pressure of the braking pipeline, and adjusting the balancing lever or the proportional valve, we can learn the law of braking force distribution by measuring the braking pressure.
-</div>
-</div>
-
-**Adaptability of Marine Lanternfish Communities under Changing Sex Ratios(MCM)**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/20241124142629.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-The sex ratio of sea lampreys varies with environmental changes. To investigate its impact, we first established the relationship between food supply, growth rate, and sex ratio based on the logistic function, and improved the Lotka Volterra predator model to analyze the changes in the number of various groups when the sex ratio changes. At the same time, the coefficient of variation was introduced into the multi-level fuzzy comprehensive evaluation model to objectively calculate weights and perform fuzzy evaluation calculations on the entire hierarchical structure constructed. Finally, a cellular automaton model was established to simulate the changes in sex ratio of the lamprey population and its spatiotemporal evolution process on the ecosystem. The adjustment mechanism of sex ratio was explored through iterative update rules.
-</div>
+<!-- 项目2：自动调平装置（课程设计） -->
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>Automatic Leveling Device</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Course Design</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2024.07-2024.08</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6;">
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    Design and manufacture an automatic leveling device using attitude sensors, consisting of a disc, attitude sensors, and three adjustable height feet. Solve the data from the attitude sensors and design a control algorithm to adjust the platform using STM32 to control the motor.
+  </div>
 </div>
 
-**NMR Signal Denoising and Accuracy Estimation(Course Design)**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.11</div><img src='images/20241124140802.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Based on the collected magnetic resonance signals, Hilbert transform is applied for linearization processing. MATLAB is used to write a program for least squares fitting, and multiple criteria are combined to remove spike noise. Then, harmonic modeling and uniform scanning methods are used to find the fundamental frequency and eliminate power frequency harmonic noise. Finally, the parameters are accurately estimated to improve the accuracy of the signal.
-</div>
-</div>
-
-**Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation(Innovation and Entrepreneurship Training Program for College Students in Jilin Province)**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06-2025.04</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Relying on this project and the Jilin Higher Education Society's Higher Education Research Project “Research on the Construction of Innovative Research University Physics Experiment First-class Curriculum System in the Context of the New Era”, we made a thermal radiation experimental apparatus that can eliminate the influence of thermal convection by controlling the thermal convection in the process of heat transfer. We used the apparatus to study the influence of thermal radiation by the object's material, color, distance, roughness and other factors, and quantified the radiation absorption capacity of different materials through the calculation of blackness. I am mainly responsible for the preliminary plan, the design of the overall device, as well as the installation, debugging and maintenance of the hardware part of the work, etc. The paper has been included in the “Jilin University 2025 College Students Innovation and Entrepreneurship Training Program Outstanding Thesis Collection”.
-</div>
+<!-- 项目3：基于智能停缸调节机制的商用车脱碳关键技术研究 -->
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Key Project of Scientific Research Project of Jilin Provincial Education Department</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2024.04-2024.06</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6;">
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    I joined the Jilin University Jisso Formula Racing Team, taking the college students' Formula Racing as the research object, installing pressure sensors at the outlet of the front brake master cylinder, the outlet of the rear brake master cylinder, and the inlet of the rear brake wheel cylinder respectively, and using the data recording device to record the pressure of the braking pipeline, and adjusting the balancing lever or the proportional valve, we can learn the law of braking force distribution by measuring the braking pressure.
+  </div>
 </div>
 
-**Statistical Inference for Non-Smooth and High-Frequency Time Series Models (Key Project of National Natural Science Foundation of China)**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04-2023.06</div><img src='images/20241124140812.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-I study machine learning methods such as generalized linear models, K-nearest neighbors, neural networks, decision trees, random forests, and their applications in auto insurance risk analysis and product pricing, and use Matlab to analyze actual auto insurance data, think about and improve the models and methods, make reasonable explanations of the results, and make scientific suggestions for applications.
+<!-- 项目4：性别比例变化下海洋灯笼鱼群落的适应性（MCM） -->
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>Adaptability of Marine Lanternfish Communities under Changing Sex Ratios</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">MCM</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2024.01</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6;">
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    The sex ratio of sea lampreys varies with environmental changes. To investigate its impact, we first established the relationship between food supply, growth rate, and sex ratio based on the logistic function, and improved the Lotka Volterra predator model to analyze the changes in the number of various groups when the sex ratio changes. At the same time, the coefficient of variation was introduced into the multi-level fuzzy comprehensive evaluation model to objectively calculate weights and perform fuzzy evaluation calculations on the entire hierarchical structure constructed. Finally, a cellular automaton model was established to simulate the changes in sex ratio of the lamprey population and its spatiotemporal evolution process on the ecosystem. The adjustment mechanism of sex ratio was explored through iterative update rules.
+  </div>
 </div>
+
+<!-- 项目5：核磁共振信号去噪与精度估计（课程设计） -->
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>NMR Signal Denoising and Accuracy Estimation</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Course Design</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2023.11</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6;">
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    Based on the collected magnetic resonance signals, Hilbert transform is applied for linearization processing. MATLAB is used to write a program for least squares fitting, and multiple criteria are combined to remove spike noise. Then, harmonic modeling and uniform scanning methods are used to find the fundamental frequency and eliminate power frequency harmonic noise. Finally, the parameters are accurately estimated to improve the accuracy of the signal.
+  </div>
+</div>
+
+<!-- 项目6：基于基尔霍夫热辐射定律的实验演示仪研制 -->
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Innovation and Entrepreneurship Training Program for College Students in Jilin Province</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2023.06-2025.04</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6;">
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    Relying on this project and the Jilin Higher Education Society's Higher Education Research Project “Research on the Construction of Innovative Research University Physics Experiment First-class Curriculum System in the Context of the New Era”, we made a thermal radiation experimental apparatus that can eliminate the influence of thermal convection by controlling the thermal convection in the process of heat transfer. We used the apparatus to study the influence of thermal radiation by the object's material, color, distance, roughness and other factors, and quantified the radiation absorption capacity of different materials through the calculation of blackness. I am mainly responsible for the preliminary plan, the design of the overall device, as well as the installation, debugging and maintenance of the hardware part of the work, etc. The paper has been included in the “Jilin University 2025 College Students Innovation and Entrepreneurship Training Program Outstanding Thesis Collection”.
+  </div>
+</div>
+
+<!-- 项目7：非光滑高频时间序列模型的统计推断 -->
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>Statistical Inference for Non-Smooth and High-Frequency Time Series Models</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Key Project of National Natural Science Foundation of China</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2023.04-2023.06</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6;">
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    I study machine learning methods such as generalized linear models, K-nearest neighbors, neural networks, decision trees, random forests, and their applications in auto insurance risk analysis and product pricing, and use Matlab to analyze actual auto insurance data, think about and improve the models and methods, make reasonable explanations of the results, and make scientific suggestions for applications.
+  </div>
 </div>
 
 # 📝 Publications 
