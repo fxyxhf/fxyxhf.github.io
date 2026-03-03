@@ -8,6 +8,8 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <!-- 新增：翻译按钮容器（和custom.html里的ID对应） -->
+          <li class="masthead__menu-item" id="baidu_translate_wrapper" style="margin-left: 8px;"></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
