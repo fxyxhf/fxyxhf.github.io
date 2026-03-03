@@ -20,22 +20,4 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- 新增：百度翻译插件（核心新增部分） -->
-<script type="text/javascript" src="https://fanyi-cdn.cdn.bcebos.com/static/translation-widget/scripts/1.0/translate.js"></script>
-<script type="text/javascript">
-  // 页面加载完成后初始化翻译插件
-  window.addEventListener('load', function() {
-    // 确保翻译插件加载完成
-    if (typeof baiduTranslateWidget !== 'undefined') {
-      baiduTranslateWidget.init({
-        wrapper: 'baidu_translate_wrapper', // 按钮容器ID（和导航栏里的ID对应）
-        from: 'en', // 源语言：你的页面默认是英文
-        to: 'zh', // 目标语言：翻译成中文
-        theme: 'light', // 主题：light（浅色）/dark（深色），适配你的页面风格
-        size: 'small' // 按钮尺寸：small（小）/large（大）
-      });
-    }
-  });
-</script>
-
 <!-- end custom head snippets -->
