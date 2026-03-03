@@ -50,20 +50,14 @@ My research interests include
 
 # 🔍 Projects
 
-<div style="color: #2E86AB; /* 标题自定义颜色，可替换为你想要的色值 */
-            font-family: 'Times New Roman', serif;
-            font-weight: bold;
-            margin-bottom: 15px;">
+<div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
   <div>Research and Development of Visible Camera Dynamic Communication Technology for Autonomous Vehicles</div>
-  <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px;">key research and development project of Jilin Provincial Science and Technology Development Program</div>
-  <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #5D6970;">2025.03-2025.05</div>
+  <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">key research and development project of Jilin Provincial Science and Technology Development Program</div>
+  <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2025.03-2025.05</div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-text' style="text-align: justify;" markdown="1">
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Relying on this project to complete the open innovation experiment project “carrying visible light camera dynamic communication target light group of railcar development”, I independently design the schematic diagram, drawing PCB circuit board, preparation of the control program, the use of stepper motors to drive the railcar, the production of the control circuit board, the control of the operation of the railcar, and at the same time to display the operating status, operating time. I designed the schematic diagram, drew the PCB circuit board, prepared the control program independently.
-</div>
+<div style="text-align: justify; line-height: 1.6;">
+  Relying on this project to complete the open innovation experiment project “carrying visible light camera dynamic communication target light group of railcar development”, I independently designed the schematic diagram, drew the PCB circuit board, prepared the control program, used stepper motors to drive the railcar, produced the control circuit board, controlled the operation of the railcar, and simultaneously displayed the operating status and operating time. I designed the schematic diagram, drew the PCB circuit board, and prepared the control program independently.
 </div>
 
 **Development and Online Application of Large-scale Multi-dimensional Intelligent Flexible Inspection System (Major Science and Technology Special Project of Jilin Province)**
