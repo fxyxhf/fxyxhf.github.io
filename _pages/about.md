@@ -204,31 +204,11 @@ redirect_from:
 
 ## 📚 Patents
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-    <a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR2113621&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;">
-      <strong>Multimodal Point Cloud 3D Reconstruction and Precision Inspection Software</strong>, Baixin Lu (2025SR2113621)
-    </a>
-  </li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-    <a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0887240&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;">
-      <strong>BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles</strong>, Baixin Lu (2025SR0887240)
-    </a>
-  </li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-    <a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0818526&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;">
-      <strong>Intelligent Vehicle Multi-Sensor Fusion Monitoring Software Based on 51 Microcontroller</strong>, Baixin Lu (2025SR0818526)
-    </a>
-  </li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-    <a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0406004&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;">
-      <strong>Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors</strong>, Baixin Lu (2025SR0406004)
-    </a>
-  </li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-    <a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;">
-      <strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong>, Baixin Lu (2025SR0127365)
-    </a>
-  </li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR2113621&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Multimodal Point Cloud 3D Reconstruction and Precision Inspection Software</strong>, Baixin Lu (2025SR2113621)</a></li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0887240&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles</strong>, Baixin Lu (2025SR0887240)</a></li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0818526&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Intelligent Vehicle Multi-Sensor Fusion Monitoring Software Based on 51 Microcontroller</strong>, Baixin Lu (2025SR0818526)</a></li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0406004&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors</strong>, Baixin Lu (2025SR0406004)</a></li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong>, Baixin Lu (2025SR0127365)</a></li>
 </div>
 
 # 🏆 Honors and Awards
