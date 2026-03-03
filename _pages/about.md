@@ -234,22 +234,22 @@ redirect_from:
   <ul style="margin: 0; padding: 0;">
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12</i> Harbin Institute of Technology, Top Ten Calligraphers.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09</i> Harbin Institute of Technology, Second Prize Scholarship.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Outstanding Graduation Project of the College.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, University Excellent Student.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, First Prize Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Outstanding Graduation Project of the College (Top 5%).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, <span style="color: #9370DB;">University Excellent Student (Top 5%)</span>.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Academic Scholarship.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> Jilin University, Excellent Proceedings of Undergraduate Innovation and Entrepreneurship Training Program.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> National Computer Rank Examination (NCRE) Level 3, Embedded System Development Technology.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i> Jilin University, Outstanding League Member.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> Jilin University, <span style="color: #9370DB;">Outstanding League Member (Top 5%)</span>.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE, Certification.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Advanced Intelligent Connected Vehicle Safety Officer, Certification.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Senior Artificial Intelligence Trainer at Damo Academy, Certification.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Jilin University, Academic Competition Scholarship.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Students' Activities to Promote the Spirit of Aerospace, Excellent Aerospace Pioneer Volunteer.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, College Excellent Student.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, College Excellent Student (Top 15%).</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, Academic Scholarship.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, First Prize Scholarship.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.10</i> Jilin University, Second Prize Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.10</i> Jilin University, Second Prize Scholarship (Top 15%).</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Promoting the Spirit of the Constitution and Youth in Action - National College Youth Propaganda Campaign, First Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City, Outstanding Performance Award.</li>
   </ul>
@@ -258,7 +258,7 @@ redirect_from:
 ## 🎏 Competitions
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.01</i> iCAN College Students' Innovation and Entrepreneurship Competition, Third Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> iCAN College Students' Innovation and Entrepreneurship Competition, <span style="color: #9370DB;">Third Prize</span>.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University "Landai Cup" 3D Modeling Design Competition, First Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i> National Student Technology Innovation and Entrepreneurship Competition, First Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Student AI Technology Competition, First Prize.</li>
@@ -267,7 +267,7 @@ redirect_from:
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Virtual Simulation Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> EDA Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Jilin University Mathematical Modeling Competition, First Prize.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.05</i> Mathematical Contest In Modeling, Finalist(Captain, Top 2% Globally).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Mathematical Contest In Modeling, <span style="color: #9370DB;">Finalist (Captain, Top 2% Globally)</span>.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.12</i> The 15th Jilin Province College Student Mathematics Competition, Third Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.12</i> The 14th Jilin Province College Student Mathematics Competition, Third Prize.</li>
   </ul>
