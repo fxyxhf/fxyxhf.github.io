@@ -1,4 +1,4 @@
-<img width="1172" height="455" alt="image" src="https://github.com/user-attachments/assets/ce564e19-7bd9-4edb-ac77-6c9cedeae76a" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -31,36 +31,42 @@ redirect_from:
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="line-height: 1.8; font-size: 1em;">
     My research interests include
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
+    <ul style="margin: 0; padding: 0;">
+      <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
+      <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
+      <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
+    </ul>
   </div>
 </div>
 
 # 📖 Educations
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09 - 2027.06</i>, M.S. Harbin Institute of Technology, Instrument Science and Technology.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12 - 2025.01</i>, Hanyang University, Technical College.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2021.09 - 2025.06</i>, B.S. Jilin University, Measurement and Control Technology and Instruments.</li>
+  <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09 - 2027.06</i>, M.S. Harbin Institute of Technology, Instrument Science and Technology.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12 - 2025.01</i>, Hanyang University, Technical College.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2021.09 - 2025.06</i>, B.S. Jilin University, Measurement and Control Technology and Instruments.</li>
+  </ul>
 </div>
 
 # 🔥 News
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.08</i>: 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i>: 🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 I completed a college student innovation and entrepreneurship training program project.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i>: 🎉🎉 I joined the Key Laboratory of Earth Information Exploration Instruments of the Ministry of Education.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.01</i>: 🎉🎉 I completed the entire winter school program at Hanyang University.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i>: 🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks (excellent conclusion).</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i>: 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i>: 🎉🎉 I have officially started using and updating my academic homepage.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.09</i>: 🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.09</i>: 🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i>: 🎉🎉 I independently completed the pipeline pressure distribution and regulation characteristic test of the open innovation experimental racing car brake system (excellent conclusion).</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.09</i>: 🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.05</i>: 🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.11</i>: 🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.</li>
+  <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.08</i>: 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i>: 🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 I completed a college student innovation and entrepreneurship training program project.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i>: 🎉🎉 I joined the Key Laboratory of Earth Information Exploration Instruments of the Ministry of Education.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.01</i>: 🎉🎉 I completed the entire winter school program at Hanyang University.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i>: 🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks (excellent conclusion).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i>: 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i>: 🎉🎉 I have officially started using and updating my academic homepage.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.09</i>: 🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.09</i>: 🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i>: 🎉🎉 I independently completed the pipeline pressure distribution and regulation characteristic test of the open innovation experimental racing car brake system (excellent conclusion).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.09</i>: 🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.05</i>: 🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.11</i>: 🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.</li>
+  </ul>
 </div>
 
 # 🔍 Projects
@@ -204,57 +210,66 @@ redirect_from:
 
 ## 📚 Patents
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR2113621&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Multimodal Point Cloud 3D Reconstruction and Precision Inspection Software</strong>, Baixin Lu (2025SR2113621)</a></li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0887240&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles</strong>, Baixin Lu (2025SR0887240)</a></li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0818526&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Intelligent Vehicle Multi-Sensor Fusion Monitoring Software Based on 51 Microcontroller</strong>, Baixin Lu (2025SR0818526)</a></li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0406004&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors</strong>, Baixin Lu (2025SR0406004)</a></li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong>, Baixin Lu (2025SR0127365)</a></li>
+  <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR2113621&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Multimodal Point Cloud 3D Reconstruction and Precision Inspection Software</strong>, Baixin Lu (2025SR2113621)</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0887240&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles</strong>, Baixin Lu (2025SR0887240)</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0818526&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Intelligent Vehicle Multi-Sensor Fusion Monitoring Software Based on 51 Microcontroller</strong>, Baixin Lu (2025SR0818526)</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0406004&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors</strong>, Baixin Lu (2025SR0406004)</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong>, Baixin Lu (2025SR0127365)</a></li>
+  </ul>
 </div>
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12</i> Harbin Institute of Technology, Top Ten Calligraphers.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09</i> Harbin Institute of Technology, Second Prize Scholarship.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Outstanding Graduation Project of the College.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, University Excellent Student.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, First Prize Scholarship.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Academic Scholarship.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> Jilin University, Excellent Proceedings of Undergraduate Innovation and Entrepreneurship Training Program.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> National Computer Rank Examination (NCRE) Level 3, Embedded System Development Technology.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i> Jilin University, Outstanding League Member.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE, Certification.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Advanced Intelligent Connected Vehicle Safety Officer, Certification.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Senior Artificial Intelligence Trainer at Damo Academy, Certification.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Jilin University, Academic Competition Scholarship.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Students' Activities to Promote the Spirit of Aerospace, Excellent Aerospace Pioneer Volunteer.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, College Excellent Student.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, Academic Scholarship.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, First Prize Scholarship.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.10</i> Jilin University, Second Prize Scholarship.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Promoting the Spirit of the Constitution and Youth in Action - National College Youth Propaganda Campaign, First Prize.</li>
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City, Outstanding Performance Award.</li>
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12</i> Harbin Institute of Technology, Top Ten Calligraphers.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09</i> Harbin Institute of Technology, Second Prize Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Outstanding Graduation Project of the College.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, University Excellent Student.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, First Prize Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Academic Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> Jilin University, Excellent Proceedings of Undergraduate Innovation and Entrepreneurship Training Program.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> National Computer Rank Examination (NCRE) Level 3, Embedded System Development Technology.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i> Jilin University, Outstanding League Member.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE, Certification.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Advanced Intelligent Connected Vehicle Safety Officer, Certification.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Senior Artificial Intelligence Trainer at Damo Academy, Certification.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Jilin University, Academic Competition Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Students' Activities to Promote the Spirit of Aerospace, Excellent Aerospace Pioneer Volunteer.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, College Excellent Student.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, Academic Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Jilin University, First Prize Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.10</i> Jilin University, Second Prize Scholarship.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Promoting the Spirit of the Constitution and Youth in Action - National College Youth Propaganda Campaign, First Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.02</i> Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City, Outstanding Performance Award.</li>
+  </ul>
+</div>
 
 ## 🎏 Competitions
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.01</i> iCAN College Students' Innovation and Entrepreneurship Competition, Third Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University "Landai Cup" 3D Modeling Design Competition, First Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i> National Student Technology Innovation and Entrepreneurship Competition, First Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Student AI Technology Competition, First Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition, Silver Award.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.08</i> BOE Cup Intelligent Manufacturing Competition, First Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Virtual Simulation Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> EDA Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Jilin University Mathematical Modeling Competition, First Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.05</i> Mathematical Contest In Modeling, Finalist(Captain, Top 2% Globally).</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.12</i> The 15th Jilin Province College Student Mathematics Competition, Third Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.12</i> The 14th Jilin Province College Student Mathematics Competition, Third Prize.</li>
+  <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.01</i> iCAN College Students' Innovation and Entrepreneurship Competition, Third Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University "Landai Cup" 3D Modeling Design Competition, First Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i> National Student Technology Innovation and Entrepreneurship Competition, First Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Student AI Technology Competition, First Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition, Silver Award.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.08</i> BOE Cup Intelligent Manufacturing Competition, First Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Virtual Simulation Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> EDA Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Jilin University Mathematical Modeling Competition, First Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.05</i> Mathematical Contest In Modeling, Finalist(Captain, Top 2% Globally).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.12</i> The 15th Jilin Province College Student Mathematics Competition, Third Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.12</i> The 14th Jilin Province College Student Mathematics Competition, Third Prize.</li>
+  </ul>
 </div>
 
 # 💼 Societies
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12 to present</i> Vice-chairman of the Science and Innovation Department of the Graduate Student Union of the Instrumentation College</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Life Member of China Satellite Navigation and Positioning Association</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Student Member of the Chinese Society of Mechanics</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.04 to 2025.05</i> Member of Jilin University Jispeed Formula Racing Team</li>
+  <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12 to present</i> Vice-chairman of the Science and Innovation Department of the Graduate Student Union of the Instrumentation College</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Life Member of China Satellite Navigation and Positioning Association</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Student Member of the Chinese Society of Mechanics</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.04 to 2025.05</i> Member of Jilin University Jispeed Formula Racing Team</li>
+  </ul>
 </div>
-
