@@ -46,6 +46,7 @@ redirect_from:
 
 # 🔥 News
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.08</i>: 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i>: 🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 I completed a college student innovation and entrepreneurship training program project.</li>
@@ -66,13 +67,25 @@ redirect_from:
 
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div>Development of mixed-flow/axial-flow turbine data post-processing system</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Horizontal project of Zhejiang Fu'an Hydraulic Machinery Research Institute</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2025.11-present</div>
+  </div>
+
+  <div style="text-align: justify; line-height: 1.6;">
+    Develop automated programs based on MATLAB and LABVIEW to achieve precise plotting of the comprehensive characteristic curves of mixed-flow turbines, including the visual presentation of the efficiency, opening line, output limit line, and operating range line of mixed-flow and axial-flow turbines. This addresses issues such as low efficiency in manual plotting, large errors in data processing, and curve deviation, meeting the needs of hydraulic machinery performance analysis and engineering applications.
+  </div>
+</div>
+
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
     <div>Research and Development of Visible Camera Dynamic Communication Technology for Autonomous Vehicles</div>
     <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">key research and development project of Jilin Provincial Science and Technology Development Program</div>
     <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2025.03-2025.05</div>
   </div>
 
   <div style="text-align: justify; line-height: 1.6;">
-    Relying on this project to complete the open innovation experiment project “carrying visible light camera dynamic communication target light group of railcar development”, I independently designed the schematic diagram, drew the PCB circuit board, prepared the control program, used stepper motors to drive the railcar, produced the control circuit board, controlled the operation of the railcar, and simultaneously displayed the operating status and operating time. I designed the schematic diagram, drew the PCB circuit board, and prepared the control program independently.
+    I independently designed the schematic diagram, drew the PCB circuit board, prepared the control program, used stepper motors to drive the railcar, produced the control circuit board, controlled the operation of the railcar, and simultaneously displayed the operating status and operating time. I designed the schematic diagram, drew the PCB circuit board, and prepared the control program independently.
   </div>
 </div>
 
@@ -85,7 +98,7 @@ redirect_from:
 
   <div style="text-align: justify; line-height: 1.6;">
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-    Relying on this project to complete the undergraduate graduation design “structured light-based integrated casting surface defect detection system design”, I joined the Key Laboratory of the Ministry of Education of the Earth Information Exploration Instrumentation, selected the appropriate structured light equipment, calculated the casting surface of the three-dimensional point cloud, and selected the appropriate stitching method to multiple local scanning of the point cloud data into a complete three-dimensional model, and then based on the surface shape anomaly design feature extraction method to distinguish between normal and defective areas. Then we design a feature extraction method based on surface shape anomalies to distinguish between normal and defective areas. Finally, for multiple batches of real integrated casting samples, the defect detection algorithm is utilized to detect the 3D point cloud on the casting surface for algorithm validation and performance evaluation.
+    Addressing the issues of resource waste and inefficiency in traditional manual verification, an automated rubber strip defect detection system based on structured light was designed. The system acquires point cloud data through scanning with a three-axis mobile platform and employs multilevel filtering and ICP algorithms for point cloud preprocessing and stitching. For defect detection, two complementary methods were proposed: a two-dimensional image processing method based on projective transformation, which locates defects through morphological operations and threshold segmentation; and a three-dimensional point cloud clustering method based on K-means, which quantifies the geometric parameters of defects. The developed host computer system realizes functions such as point cloud processing, point cloud segmentation, and defect detection, verifying the engineering applicability of this method.
   </div>
 </div>
 
@@ -178,32 +191,37 @@ redirect_from:
 
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #27AE60; font-weight: bold; margin-bottom: 15px;">
-    <div><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="color: inherit; text-decoration: none;">Deep Residual Learning for Image Recognition</a></div>
-    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #27AE60;">Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun</div>
-    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">CVPR 2016</div>
+    <div><a href="https://ieeexplore.ieee.org/document/11138234" style="color: inherit; text-decoration: none;">A Hybrid Framework for Dynamic Optimization of Racing Car Braking System Based on BiLSTM and GBDT</a></div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #27AE60;">Baixin Lu</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA)</div>
   </div>
 
   <div style="text-align: justify; line-height: 1.6;">
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-    ABCDE FGHIJ KLMNO PQRST UVWXY Z, abcde fghij klmno pqrst uvwxy z.
-    <ul style="margin-top: 8px; padding-left: 20px;">
-      <li>ABC 123, DEF 456, GHI 789.</li>
-      <li><a href="https://github.com" style="text-decoration: none;">JKL 012, MNO 345</a>, XYZ, 789, <strong>CVPR 2020</strong></li>
-    </ul>
+   Aiming at the problems of insufficient dynamic adaptability due to racing brake force allocation, this paper proposes a hybrid framework that integrates physical adjustment and adaptive learning. Based on the collected sensor data combined with wavelet threshold denoising process, the signal-to-noise ratio reaches 64.13 dB, and the pressure decay rate is predicted using a five-fold cross-validated optimized Gradient Boosting Decision Tree (GBDT) model with an RMSE of up to 0.1592, and the proportional valve gears are classified via a Bidirectional Long Short-Term Memory (BiLSTM) to achieve a macro-averaged F1-score of 88 %, and a macroaveraged precision of 90 %. The experiments show that the framework validates the potential of fusing machine learning with mechanical architectures and provides new ideas for dynamic braking optimization.
   </div>
 </div>
 
 ## 📚 Patents
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><strong>BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles</strong>, Baixin Lu (2025R11S0774634)</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><strong>Intelligent vehicle multi-sensor fusion monitoring software based on 51 microcontroller</strong>, Baixin Lu (2025R11S0525375)</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><strong>Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors</strong>, Baixin Lu (2025SR0406004)</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR2113621&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong> Multimodal Point Cloud 3D Reconstruction and Precision Inspection Software</strong>, Baixin Lu (2025SR2113621)</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0887240&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles</strong>, Baixin Lu (2025SR0887240)</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0818526&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Intelligent Vehicle Multi-Sensor Fusion Monitoring Software Based on 51 Microcontroller</strong>, Baixin Lu (2025SR0818526)</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0406004&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors</strong>, Baixin Lu (2025SR0406004)</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong></a>, Baixin Lu (2025SR0127365)</li>
 </div>
 
 # 🏆 Honors and Awards
 ## 🏅 Honors
-<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i> Jilin University, Five-star Youth League Member.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12</i> Harbin Institute of Technology, Top Ten Calligraphers.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09</i> Harbin Institute of Technology, Second Prize Scholarship.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Outstanding Graduation Project of the College.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, University Excellent Student.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, First Prize Scholarship.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Academic Scholarship.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> Jilin University, Excellent Proceedings of Undergraduate Innovation and Entrepreneurship Training Program.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i> National Computer Rank Examination (NCRE) Level 3, Embedded System Development Technology.</li>
+<li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i> Jilin University, Outstanding League Member.</li>
 <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE, Certification.</li>
 <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Advanced Intelligent Connected Vehicle Safety Officer, Certification.</li>
 <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i> Senior Artificial Intelligence Trainer at Damo Academy, Certification.</li>
@@ -218,6 +236,8 @@ redirect_from:
 
 ## 🎏 Competitions
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.01</i> iCAN College Students' Innovation and Entrepreneurship Competition, Third Prize.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University "Landai Cup" 3D Modeling Design Competition, First Prize.</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i> National Student Technology Innovation and Entrepreneurship Competition, First Prize.</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Student AI Technology Competition, First Prize.</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.10</i> Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition, Silver Award.</li>
@@ -225,14 +245,16 @@ redirect_from:
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Virtual Simulation Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> EDA Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Jilin University Mathematical Modeling Competition, First Prize.</li>
-  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.05</i> Mathematical Contest In Modeling, Finalist.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.05</i> Mathematical Contest In Modeling, Finalist(Captain, Top 2% Globally).</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.12</i> The 15th Jilin Province College Student Mathematics Competition, Third Prize.</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.12</i> The 14th Jilin Province College Student Mathematics Competition, Third Prize.</li>
 </div>
 
 # 💼 Societies
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12 to present</i> Vice-chairman of the Science and Innovation Department of the Graduate Student Union of the Instrumentation College</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Life Member of China Satellite Navigation and Positioning Association</li>
   <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Student Member of the Chinese Society of Mechanics</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.04 to 2025.05</i> Member of Jilin University Jispeed Formula Racing Team</li>
 </div>
 
