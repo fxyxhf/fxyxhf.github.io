@@ -19,13 +19,32 @@ redirect_from:
 
 
 # 🧍‍♂️ Biography
-Since 2021, I have been pursuing my undergraduate degree in Measurement and Control Technology and Instrumentation at [Jilin University](https://www.jlu.edu.cn/), and since 2025, I have been pursuing my academic master's degree in Instrumentation Science and Technology at [Harbin Institute of Technology](http://www.hit.edu.cn/).
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #F39C12; font-weight: bold; margin-bottom: 15px;">
+    <div>Education Background</div>
+  </div>
+  <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
+    Since 2021, I have been pursuing my undergraduate degree in Measurement and Control Technology and Instrumentation at 
+    <a href="https://www.jlu.edu.cn/" style="color: #F39C12; text-decoration: none;">Jilin University</a>, 
+    and since 2025, I have been pursuing my academic master's degree in Instrumentation Science and Technology at 
+    <a href="http://www.hit.edu.cn/" style="color: #F39C12; text-decoration: none;">Harbin Institute of Technology</a>.
+  </div>
+</div>
 
 My research interests include
 
-- [Computer Vision](https://scholar.google.com/scholar?q=computer+vision)
-- [Autonomous Driving](https://scholar.google.com/scholar?q=autonomous+driving)
-- [Natural Language Processing](https://scholar.google.com/scholar?q=natural+language+processing)
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #F39C12; font-weight: bold; margin-bottom: 15px;">
+    <div>Research Interests</div>
+  </div>
+  <div style="line-height: 1.8; font-size: 1em;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>- <a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
+      <li>- <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
+      <li>- <a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
+    </ul>
+  </div>
+</div>
 
 # 📖 Educations
 - *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.
