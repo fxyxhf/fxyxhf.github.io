@@ -31,45 +31,35 @@ redirect_from:
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="line-height: 1.8; font-size: 1em;">
     My research interests include
-    <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
-      <li>- <a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
-      <li>- <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
-      <li>- <a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
-    </ul>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
   </div>
 </div>
 
 # 📖 Educations
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="line-height: 1.8; font-size: 1em;">
-    <ul style="list-style: none; padding-left: 0;">
-      <li>- *2025.09 - 2027.06*, M.S. Harbin Institute of Technology, Instrument Science and Technology.</li>
-      <li>- *2024.12 - 2025.01*, Hanyang University, Technical College.</li>
-      <li>- *2021.09 - 2025.06*, B.S. Jilin University, Measurement and Control Technology and Instruments.</li>
-    </ul>
-  </div>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09 - 2027.06</i>, M.S. Harbin Institute of Technology, Instrument Science and Technology.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12 - 2025.01</i>, Hanyang University, Technical College.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2021.09 - 2025.06</i>, B.S. Jilin University, Measurement and Control Technology and Instruments.</li>
 </div>
 
 # 🔥 News
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="line-height: 1.8; font-size: 1em;">
-    <ul style="list-style: none; padding-left: 0;">
-      <li>- *2025.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).</li>
-      <li>- *2025.04*: &nbsp;🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
-      <li>- *2025.04*: &nbsp;🎉🎉 I completed a college student innovation and entrepreneurship training program project.</li>
-      <li>- *2025.02*: &nbsp;🎉🎉 I joined the Key Laboratory of Earth Information Exploration Instruments of the Ministry of Education.</li>
-      <li>- *2025.01*: &nbsp;🎉🎉 I completed the entire winter school program at Hanyang University.</li>
-      <li>- *2024.12*: &nbsp;🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks(excellent conclusion).</li>
-      <li>- *2024.11*: &nbsp;🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
-      <li>- *2024.11*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage.</li>
-      <li>- *2024.09*: &nbsp;🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.</li>
-      <li>- *2024.09*: &nbsp;🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.</li>
-      <li>- *2024.06*: &nbsp;🎉🎉 I independently completed the pipeline pressure distribution and regulation characteristic test of the open innovation experimental racing car brake system (excellent conclusion).</li>
-      <li>- *2023.09*: &nbsp;🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.</li>
-      <li>- *2023.05*: &nbsp;🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.</li>
-      <li>- *2022.11*: &nbsp;🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.</li>
-    </ul>
-  </div>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i>: 🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 I completed a college student innovation and entrepreneurship training program project.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i>: 🎉🎉 I joined the Key Laboratory of Earth Information Exploration Instruments of the Ministry of Education.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.01</i>: 🎉🎉 I completed the entire winter school program at Hanyang University.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.12</i>: 🎉🎉 I independently completed an open innovation experiment on road detection in remote sensing images based on convolutional neural networks (excellent conclusion).</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i>: 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i>: 🎉🎉 I have officially started using and updating my academic homepage.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.09</i>: 🎉🎉 I successfully applied for graduate studies at Harbin Institute of Technology.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.09</i>: 🎉🎉 I received offers from prestigious universities such as Shanghai Jiao Tong University, Zhejiang University, and Harbin Institute of Technology during the postgraduate recommendation season.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i>: 🎉🎉 I independently completed the pipeline pressure distribution and regulation characteristic test of the open innovation experimental racing car brake system (excellent conclusion).</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.09</i>: 🎉🎉 I participated as a core member in the development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation for a provincial-level innovation project.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.05</i>: 🎉🎉 I independently completed an open innovation experiment to reproduce the investment scenario of financial derivatives.</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.11</i>: 🎉🎉 I independently completed an open innovation experiment on the application of machine learning in car insurance pricing.</li>
 </div>
 
 # 🔍 Projects
@@ -205,14 +195,10 @@ redirect_from:
 
 ## 📚 Patents
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="line-height: 1.8; font-size: 1em;">
-    <ul style="list-style: none; padding-left: 0;">
-      <li>- **BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles**, Baixin Lu (2025R11S0774634)</li>
-      <li>- **Intelligent vehicle multi-sensor fusion monitoring software based on 51 microcontroller**, Baixin Lu (2025R11S0525375)</li>
-      <li>- **Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors**, Baixin Lu (2025SR0406004)</li>
-      <li>- <a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong></a>, Baixin Lu (2025SR0127365)</li>
-    </ul>
-  </div>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><strong>BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles</strong>, Baixin Lu (2025R11S0774634)</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><strong>Intelligent vehicle multi-sensor fusion monitoring software based on 51 microcontroller</strong>, Baixin Lu (2025R11S0525375)</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><strong>Planetary Optimization Algorithm Based Image Filtering Software for Star Sensors</strong>, Baixin Lu (2025SR0406004)</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2025SR0127365&keyWord=%E9%B2%81%E4%BD%B0%E9%91%AB&publicityType=ALL&registerDateType=ALL" style="text-decoration: none; color: inherit;"><strong>Precision Attitude Adjustment Control Software Based on Kalman Filter</strong></a>, Baixin Lu (2025SR0127365)</li>
 </div>
 
 # 🏆 Honors and Awards
@@ -246,11 +232,7 @@ redirect_from:
 
 # 💼 Societies
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="line-height: 1.8; font-size: 1em;">
-    <ul style="list-style: none; padding-left: 0;">
-      <li>- *2025.04 to present* Life Member of China Satellite Navigation and Positioning Association</li>
-      <li>- *2025.04 to present* Student Member of the Chinese Society of Mechanics</li>
-    </ul>
-  </div>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Life Member of China Satellite Navigation and Positioning Association</li>
+  <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04 to present</i> Student Member of the Chinese Society of Mechanics</li>
 </div>
 
