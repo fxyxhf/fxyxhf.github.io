@@ -163,20 +163,18 @@ My research interests include
 ## 📃 Papers
 
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
-  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+  <div style="color: #27AE60; font-weight: bold; margin-bottom: 15px;">
     <div><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="color: inherit; text-decoration: none;">Deep Residual Learning for Image Recognition</a></div>
-    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun</div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #27AE60;">Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun</div>
     <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">CVPR 2016</div>
   </div>
 
   <div style="text-align: justify; line-height: 1.6;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC" style="text-decoration: none;">
-      <strong>Project</strong>
-    </a> 
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    ABCDE FGHIJ KLMNO PQRST UVWXY Z, abcde fghij klmno pqrst uvwxy z.
     <ul style="margin-top: 8px; padding-left: 20px;">
-      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
-      <li><a href="https://github.com" style="text-decoration: none;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C, <strong>CVPR 2020</strong></li>
+      <li>ABC 123, DEF 456, GHI 789.</li>
+      <li><a href="https://github.com" style="text-decoration: none;">JKL 012, MNO 345</a>, XYZ, 789, <strong>CVPR 2020</strong></li>
     </ul>
   </div>
 </div>
@@ -190,24 +188,10 @@ My research interests include
 # 🏆 Honors and Awards
 ## 🏅 Honors
 - *2025.04* Jilin University,Five-star Youth League Member.
-- *2025.01* Data Analysis using Microsoft Excel,Certification.
-- *2025.01* Matlab,Certification.
-- *2025.01* Robotics,Certification.
-- *2025.01* Web Designing,Certification.
-- *2025.01* Deep Learning,Certification.
-- *2025.01* SPSS Statistics,Certification.
-- *2025.01* Data Science,Certification.
-- *2025.01* C & C++ Programming Language,Certification.
-- *2024.12* IOT - Internet of Things,Certification.
-- *2024.12* Augmented and Virtual Reality,Certification.
 - *2024.12* ITCILO Course MASTERCLASS ON ARTIFICIAL INTELLIGENCE,Certification.
-- *2024.12* Advanced Computer Vision with OpenCV and Python,Certification.
 - *2024.12* Advanced Intelligent Connected Vehicle Safety Officer,Certification.
-- *2024.12* CATIA - Computer Aided Design and Drafting,Certification.
-- *2024.12* Vehicle Counting, Classification & Detection using Computer Vision,Certification.
 - *2024.12* Senior Artificial Intelligence Trainer at Damo Academy,Certification.
 - *2024.12* Jilin University,Academic Competition Scholarship.
-- *2024.12* AutoCAD,Certification.
 - *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer.  
 - *2024.10* Jilin University,College Excellent Student. 
 - *2024.10* Jilin University,Academic Scholarship.  
@@ -231,12 +215,4 @@ My research interests include
 # 💼 Societies
 - *2025.04 to present* Life Member of China Satellite Navigation and Positioning Association
 - *2025.04 to present* Student Member of the Chinese Society of Mechanics
-- *2024.11* National College Students' Activities to Promote the Spirit of Aerospace,Excellent Aerospace Pioneer Volunteer. 
-- *2024.01-2024.02* Baicheng City,Mingsheng Community Volunteer.
-- *2023.01-2023.02* Baicheng City,Volunteer Service for Garbage Classification.
-- *2022.10* Jilin University,Men's 800 Meter Athletes at the School Sports Meet.
-- *2022.10* Jilin University,Members of the School Sports Team.
-- *2022.05* Jilin University,Volunteers for Epidemic Prevention and Control Supervision and Inspection.
-- *2022.01-2022.02* Baicheng City,Volunteer Service Activities for Epidemic Prevention and Control. 
-- *2021.12* Jilin University,Volunteers for the New Student Welcome Party. 
 
