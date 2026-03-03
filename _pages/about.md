@@ -75,7 +75,6 @@ My research interests include
   </div>
 </div>
 
-<!-- 项目1：多卫星联合大范围覆盖成像关键技术研究 -->
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
     <div>Research on key technologies for joint multi-satellite large-area coverage imaging</div>
@@ -88,10 +87,9 @@ My research interests include
   </div>
 </div>
 
-<!-- 项目2：自动调平装置（课程设计） -->
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
-    <div>Automatic Leveling Device</div>
+    <div><a href="https://zhuanlan.zhihu.com/p/3562076084" style="color: inherit; text-decoration: none;">Automatic Leveling Device</a></div>
     <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Course Design</div>
     <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">2024.07-2024.08</div>
   </div>
@@ -101,7 +99,6 @@ My research interests include
   </div>
 </div>
 
-<!-- 项目3：基于智能停缸调节机制的商用车脱碳关键技术研究 -->
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
     <div>Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</div>
@@ -114,7 +111,6 @@ My research interests include
   </div>
 </div>
 
-<!-- 项目4：性别比例变化下海洋灯笼鱼群落的适应性（MCM） -->
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
     <div>Adaptability of Marine Lanternfish Communities under Changing Sex Ratios</div>
@@ -127,7 +123,6 @@ My research interests include
   </div>
 </div>
 
-<!-- 项目5：核磁共振信号去噪与精度估计（课程设计） -->
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
     <div>NMR Signal Denoising and Accuracy Estimation</div>
@@ -140,7 +135,6 @@ My research interests include
   </div>
 </div>
 
-<!-- 项目6：基于基尔霍夫热辐射定律的实验演示仪研制 -->
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
     <div>Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation</div>
@@ -153,7 +147,6 @@ My research interests include
   </div>
 </div>
 
-<!-- 项目7：非光滑高频时间序列模型的统计推断 -->
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
     <div>Statistical Inference for Non-Smooth and High-Frequency Time Series Models</div>
@@ -169,19 +162,24 @@ My research interests include
 # 📝 Publications 
 ## 📃 Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
+  <div style="color: #2E86AB; font-weight: bold; margin-bottom: 15px;">
+    <div><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="color: inherit; text-decoration: none;">Deep Residual Learning for Image Recognition</a></div>
+    <div style="font-size: 0.9em; font-weight: normal; margin-top: 4px; color: #2E86AB;">Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun</div>
+    <div style="font-size: 0.85em; font-weight: normal; margin-top: 4px; color: #666;">CVPR 2016</div>
+  </div>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  <div style="text-align: justify; line-height: 1.6;">
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC" style="text-decoration: none;">
+      <strong>Project</strong>
+    </a> 
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    <ul style="margin-top: 8px; padding-left: 20px;">
+      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
+      <li><a href="https://github.com" style="text-decoration: none;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C, <strong>CVPR 2020</strong></li>
+    </ul>
+  </div>
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 ## 📚 Patents
 - **BiLSTM-GBDT-based Brake Force Co-regulation Software for Intelligent Vehicles**, Baixin Lu (2025R11S0774634)
