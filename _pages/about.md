@@ -42,17 +42,26 @@ redirect_from:
 # 📖 Educations
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-      <i>2025.09 - 2027.06</i>, M.S. Harbin Institute of Technology, Instrument Science and Technology.
-      <div style="font-size: 0.85em; color: #666; margin-left: 0; margin-top: 2px;">GPA:92.33/100</div>
+    <li style="list-style: none; margin-left: 0; line-height: 1.8; display: flex; align-items: flex-start; gap: 10px;">
+      <img src="images/哈尔滨工业大学-logo-2048px.png" alt="HIT Logo" style="width: 24px; height: 24px; object-fit: contain; margin-top: 3px;">
+      <div>
+        <i>2025.09 - 2027.06</i>, M.S. Harbin Institute of Technology, Instrument Science and Technology.
+        <div style="font-size: 0.85em; color: #666; margin-left: 0; margin-top: 2px;">GPA:92.33/100</div>
+      </div>
     </li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-      <i>2024.12 - 2025.01</i>, Hanyang University, Technical College.
-      <div style="font-size: 0.85em; color: #666; margin-left: 0; margin-top: 2px;">GPA:90/100</div>
+    <li style="list-style: none; margin-left: 0; line-height: 1.8; display: flex; align-items: flex-start; gap: 10px;">
+      <img src="images/汉阳大学.png" alt="Hanyang Logo" style="width: 24px; height: 24px; object-fit: contain; margin-top: 3px;">
+      <div>
+        <i>2024.12 - 2025.01</i>, Hanyang University, Technical College.
+        <div style="font-size: 0.85em; color: #666; margin-left: 0; margin-top: 2px;">GPA:90/100</div>
+      </div>
     </li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;">
-      <i>2021.09 - 2025.06</i>, B.S. Jilin University, Measurement and Control Technology and Instruments.
-      <div style="font-size: 0.85em; color: #666; margin-left: 0; margin-top: 2px;">GPA:87.9/100</div>
+    <li style="list-style: none; margin-left: 0; line-height: 1.8; display: flex; align-items: flex-start; gap: 10px;">
+      <img src="images/吉林大学-logo-2048px.png" alt="JLU Logo" style="width: 24px; height: 24px; object-fit: contain; margin-top: 3px;">
+      <div>
+        <i>2021.09 - 2025.06</i>, B.S. Jilin University, Measurement and Control Technology and Instruments.
+        <div style="font-size: 0.85em; color: #666; margin-left: 0; margin-top: 2px;">GPA:87.9/100</div>
+      </div>
     </li>
   </ul>
 </div>
