@@ -258,7 +258,7 @@ redirect_from:
 ## 🎏 Competitions
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> iCAN College Students' Innovation and Entrepreneurship Competition, <span style="color: #9370DB;">Third Prize</span>.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12</i> iCAN College Students' Innovation and Entrepreneurship Competition, <span style="color: #9370DB;">Third Prize</span>.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University "Landai Cup" 3D Modeling Design Competition, First Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.02</i> National Student Technology Innovation and Entrepreneurship Competition, First Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.11</i> National College Student AI Technology Competition, First Prize.</li>
@@ -267,8 +267,10 @@ redirect_from:
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Virtual Simulation Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> EDA Design Competition of the School of Instrumentation and Electronics, Second Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Jilin University Mathematical Modeling Competition, First Prize.</li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Mathematical Contest In Modeling, <span style="color: #9370DB;">Finalist (Captain, Top 2% Globally)</span>.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2024.06</i> Mathematical Contest In Modeling, <span style="color: #9370DB;">Finalist (Captain, Top 2% Globally)</span>.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.12</i> The 15th Jilin Province College Student Mathematics Competition, Third Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.11</i> Jilin University Student Career Planning Competition, Third Prize.</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2023.11</i> Jilin University Student Career Planning Competition Chaoyang Campus Finals, First Prize.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2022.12</i> The 14th Jilin Province College Student Mathematics Competition, Third Prize.</li>
   </ul>
 </div>
