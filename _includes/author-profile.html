@@ -98,14 +98,14 @@
         <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
       {% endif %}
       {% if author.wechat_qrcode %}
-        <li>
-        <a href="javascript:void(0)" onclick="document.getElementById('wechat-qrcode').style.display='block'">
-          <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> 微信
+      <li>
+        <a href="javascript:void(0)" onclick="document.getElementById('wechat-qrcode').style.display='block'; return false;">
+          <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat
         </a>
         <div id="wechat-qrcode" style="display:none;position:absolute;margin-top:10px;padding:10px;background:#fff;border:1px solid #eee;border-radius:4px;z-index:999;">
-        <img src="{{ author.wechat_qrcode }}" alt="微信二维码" style="width:150px;height:150px;">
+          <img src="{{ author.wechat_qrcode }}" alt="WeChat QR Code" style="width:150px;height:150px;">
         </div>
-        </li>
+      </li>
       {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
@@ -205,13 +205,13 @@
       {% if author.zhihu %}
         <a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.wechat_qrcode %}
-        <a href="javascript:void(0)" onclick="document.getElementById('wechat-qrcode-sm').style.display='block'">
+     {% if author.wechat_qrcode %}
+      <a href="javascript:void(0)" onclick="document.getElementById('wechat-qrcode-sm').style.display='block'; return false;">
         <i class="fab fa-fw fa-weixin" aria-hidden="true"></i>
-        </a>
-        <div id="wechat-qrcode-sm" style="display:none;position:absolute;margin-top:10px;padding:10px;background:#fff;border:1px solid #eee;border-radius:4px;z-index:999;">
-        <img src="{{ author.wechat_qrcode }}" alt="微信二维码" style="width:150px;height:150px;">
-        </div>
+      </a>
+      <div id="wechat-qrcode-sm" style="display:none;position:absolute;margin-top:10px;padding:10px;background:#fff;border:1px solid #eee;border-radius:4px;z-index:999;">
+        <img src="{{ author.wechat_qrcode }}" alt="WeChat QR Code" style="width:150px;height:150px;">
+      </div>
       {% endif %}
       {% if author.flickr %}
         <a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i></a>
