@@ -28,6 +28,12 @@ redirect_from:
   </div>
 </div>
 
+<div style="padding-bottom: 15px; margin-bottom: 15px;">
+  <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
+    I am an unwavering fan of Honkai Star Rail and Zenless Zone Zero. I have a passion for cutting-edge technology and international exchanges. I welcome like-minded researchers to contact me!
+  </div>
+</div>
+
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <div style="line-height: 1.8; font-size: 1em;">
     My research interests include
