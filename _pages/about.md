@@ -30,7 +30,7 @@ redirect_from:
 
 <div style="padding-bottom: 15px; margin-bottom: 15px;">
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
-    I am an unwavering fan of Honkai Star Rail and Zenless Zone Zero. I have a passion for cutting-edge technology and international exchanges. I welcome like-minded researchers to contact me!
+    I am an unwavering fan of <a href="https://hsr.hoyoverse.com/" style="color: #F39C12; text-decoration: none;">Honkai Star Rail</a> and <a href="https://zzz.hoyoverse.com/" style="color: #F39C12; text-decoration: none;">Zenless Zone Zero</a>. I have a passion for cutting-edge technology and international exchanges. I welcome like-minded researchers to contact me!
   </div>
 </div>
 
