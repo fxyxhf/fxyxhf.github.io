@@ -45,10 +45,6 @@ redirect_from:
   </div>
 </div>
 
-<div align="center" style="margin-bottom: 20px;"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-</div>
-
 # 📖 Educations
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
