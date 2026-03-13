@@ -45,16 +45,12 @@ redirect_from:
   </div>
 </div>
 
-<div align="center">
-  <h1 align="center">🛠️ Development Tools & Technologies</h1>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
-    <div>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=anaconda,autocad,blender,c,cs,cpp,git,github,gitlab,gmail,html,ai,js,latex,matlab,octave,opencv,powershell,pycharm,py,pytorch,qt,r,ros,tensorflow,ubuntu,unity,visualstudio,vscode" />
-        </a>
-      </p>
-    </div>
+<div style="margin: 30px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
+  <h3 style="margin: 0 0 20px 0; color: #333;">🛠️ Tech Stack</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=anaconda,autocad,blender,c,cs,cpp,git,github,gitlab,gmail,html,ai,js,latex,matlab,octave,opencv,powershell,pycharm,py,pytorch,qt,r,ros,tensorflow,ubuntu,unity,visualstudio,vscode" />
+    </a>
   </div>
 </div>
 
