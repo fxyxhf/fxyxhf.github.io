@@ -35,7 +35,7 @@ redirect_from:
 </div>
 
 <div style="line-height: 1.8; font-size: 1em;">
-  My research interests include
+  📈 My research interests include
   <ul style="margin: 0; padding: 0;">
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
