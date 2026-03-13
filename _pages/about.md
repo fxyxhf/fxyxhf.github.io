@@ -45,6 +45,10 @@ redirect_from:
   </div>
 </div>
 
+<div align="center" style="margin-bottom: 20px;"> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+</div>
+
 # 📖 Educations
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
@@ -300,7 +304,3 @@ redirect_from:
   </ul>
 </div>
 
-<div style="text-align: center; margin: 40px 0 20px; padding: 15px; border-top: 1px solid #eee;">
-  <p style="margin-bottom: 8px; font-size: 0.9em; color: #666;">👀 Visitor Map</p>
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-</div>
