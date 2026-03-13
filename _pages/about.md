@@ -45,7 +45,7 @@ redirect_from:
   </div>
 </div>
 
-<div style="margin: 30px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
+<div style="margin: 30px 0;">
   <h3 style="margin: 0 0 20px 0; color: #333;">🛠️ Tech Stack</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
     <a href="https://skillicons.dev">
