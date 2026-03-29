@@ -58,6 +58,13 @@ redirect_from:
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
     <li style="list-style: none; margin-left: 0; line-height: 1.8; display: flex; align-items: center; gap: 15px; margin-bottom: 8px;">
+      <img src=" images/莫斯科国立鲍曼技术大学.png" alt="BMSTU Logo" style="width: 48px; height: 48px; object-fit: contain; flex-shrink: 0;">
+      <div>
+        <i>2026.03 - 2026.04</i>, Bauman Moscow State Technical University, Department of Laser and Optoelectronic Systems.
+        <div style="font-size: 0.85em; color: #666; margin-left: 0; margin-top: 2px;">GPA:95/100</div>
+      </div>
+    </li>
+    <li style="list-style: none; margin-left: 0; line-height: 1.8; display: flex; align-items: center; gap: 15px; margin-bottom: 8px;">
       <img src="images/哈尔滨工业大学-logo-2048px.png" alt="HIT Logo" style="width: 48px; height: 48px; object-fit: contain; flex-shrink: 0;">
       <div>
         <i>2025.09 - 2027.06</i>, M.S. Harbin Institute of Technology, Instrument Science and Technology.
