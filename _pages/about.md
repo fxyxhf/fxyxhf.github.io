@@ -91,6 +91,9 @@ redirect_from:
 # 🔥 News
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.05</i>: 🎉🎉 I co-authored the paper "Hierarchical Reinforcement Learning Control of Multimode Mode-locked Fiber Lasers" and submitted it to Light: Science & Applications (JCR Q1).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.04</i>: 🎉🎉 I authored the paper "Lane-traversal path planning on structured roads via geometry-guided pruning and hierarchical divide-and-conquer optimization" as the first author and submitted it to Engineering Research Express (JCR Q2).</li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.03</i>: 🎉🎉 I authored the paper "Hybrid 2D/3D Vision Methodology for Precision Defect" as the first author and submitted it to the Journal of Modern Optics (JCR Q4).</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.08</i>: 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.05</i>: 🎉🎉 I independently completed an open innovation experiment on the development of a railcar carrying a visible camera's dynamic communication target light set (excellent conclusions).</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.04</i>: 🎉🎉 My paper was accepted in 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
@@ -263,6 +266,7 @@ redirect_from:
 ## 🏅 Honors
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;">
   <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2026.05</i> Harbin Institute of Technology, Outstanding League Member.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.12</i> Harbin Institute of Technology, Top Ten Calligraphers.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.09</i> Harbin Institute of Technology, Second Prize Scholarship.</li>
     <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><i>2025.06</i> Jilin University, Outstanding Graduation Project of the College (Top 5%).</li>
